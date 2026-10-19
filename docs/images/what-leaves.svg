@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="380" rx="24" fill="#0B0B0C"/>
+
+  <!-- Mac -->
+  <g transform="translate(40 40)">
+    <rect width="360" height="300" rx="18" fill="#18181B"/>
+    <text x="28" y="48" fill="#8A8A90" font-size="15" font-weight="600">YOUR MAC</text>
+    <text x="28" y="86" fill="#FFFFFF" font-size="22" font-weight="800">Originals stay here</text>
+    <text x="28" y="116" fill="#A1A1A8" font-size="15">Photos are read in place, never</text>
+    <text x="28" y="137" fill="#A1A1A8" font-size="15">copied or uploaded. Sorting food</text>
+    <text x="28" y="158" fill="#A1A1A8" font-size="15">from everything else runs on device.</text>
+    <g transform="translate(28 190)">
+      <rect width="70" height="70" rx="10" fill="#F4F1E8"/>
+      <rect x="80" width="70" height="70" rx="10" fill="#F4F1E8" opacity="0.7"/>
+      <rect x="160" width="70" height="70" rx="10" fill="#F4F1E8" opacity="0.45"/>
+    </g>
+  </g>
+
+  <!-- arrows -->
+  <path d="M410 120 H600" stroke="#E8FF1F" stroke-width="3"/><path d="M600 112 l12 8 l-12 8 z" fill="#E8FF1F"/>
+  <text x="424" y="104" fill="#FFFFFF" font-size="15" font-weight="700">Small copies of food photos</text>
+
+  <path d="M410 270 H600" stroke="#E8FF1F" stroke-width="3"/><path d="M600 262 l12 8 l-12 8 z" fill="#E8FF1F"/>
+  <text x="424" y="254" fill="#FFFFFF" font-size="15" font-weight="700">Where a photo was taken</text>
+  <text x="424" y="296" fill="#8A8A90" font-size="13">via Afterplate's proxy or your key</text>
+
+  <!-- AI -->
+  <g transform="translate(624 60)">
+    <rect width="536" height="120" rx="18" fill="#18181B"/>
+    <text x="28" y="46" fill="#FFFFFF" font-size="20" font-weight="800">The AI you pick</text>
+    <text x="28" y="76" fill="#A1A1A8" font-size="15">ChatGPT or Grok on your paid plan, or Claude on your key.</text>
+    <text x="28" y="98" fill="#A1A1A8" font-size="15">It gets one visit's photos and the places nearby, never the library.</text>
+  </g>
+
+  <!-- Google -->
+  <g transform="translate(624 210)">
+    <rect width="536" height="120" rx="18" fill="#18181B"/>
+    <text x="28" y="46" fill="#FFFFFF" font-size="20" font-weight="800">Google Places</text>
+    <text x="28" y="76" fill="#A1A1A8" font-size="15">Restaurants within about 150 m. The proxy keeps a device</text>
+    <text x="28" y="98" fill="#A1A1A8" font-size="15">number to count its weekly share, and nothing else.</text>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="640" rx="24" fill="#0B0B0C"/>
+  <!-- window bar -->
+  <circle cx="40" cy="36" r="7" fill="#3A3A40"/><circle cx="62" cy="36" r="7" fill="#3A3A40"/><circle cx="84" cy="36" r="7" fill="#3A3A40"/>
+  <text x="120" y="42" fill="#FFFFFF" font-size="20" font-weight="900">after<tspan fill="#E8FF1F">plate</tspan></text>
+  <text x="232" y="42" fill="#8A8A90" font-size="15">12 visits ready</text>
+  <path d="M24 64 H1176" stroke="#1E1E22" stroke-width="2"/>
+
+  <g transform="translate(300 92)">
+    <text fill="#8A8A90" font-size="15">Saturday, 1 PM · Seoul</text>
+    <!-- photos -->
+    <g transform="translate(0 18)">
+      <rect width="180" height="130" rx="12" fill="#C9B79C"/><circle cx="90" cy="65" r="44" fill="#F4F1E8"/><circle cx="90" cy="65" r="30" fill="#D9774A"/>
+      <rect x="192" width="180" height="130" rx="12" fill="#A88F72"/><circle cx="282" cy="65" r="44" fill="#F4F1E8"/><circle cx="282" cy="65" r="28" fill="#7BA05B"/>
+      <rect x="384" width="180" height="130" rx="12" fill="#8C7A66"/><circle cx="474" cy="65" r="44" fill="#F4F1E8"/><circle cx="474" cy="65" r="26" fill="#E3C35A"/>
+    </g>
+
+    <!-- app asks -->
+    <g transform="translate(0 176)">
+      <rect width="330" height="44" rx="12" fill="#18181B"/>
+      <text x="18" y="28" fill="#FFFFFF" font-size="17" font-weight="700">Did you eat at Corner Noodle Bar?</text>
+    </g>
+    <!-- answer -->
+    <g transform="translate(432 236)">
+      <rect width="132" height="40" rx="12" fill="#E8FF1F"/>
+      <text x="66" y="26" fill="#0B0B0C" font-size="16" font-weight="800" text-anchor="middle">Yes, there</text>
+    </g>
+    <text x="564" y="296" fill="#8A8A90" font-size="13" text-anchor="end">Click an answer to change it</text>
+
+    <!-- next question -->
+    <g transform="translate(0 316)">
+      <rect width="230" height="44" rx="12" fill="#18181B"/>
+      <text x="18" y="28" fill="#FFFFFF" font-size="17" font-weight="700">What did you have?</text>
+    </g>
+    <g transform="translate(0 372)">
+      <rect width="150" height="38" rx="19" fill="none" stroke="#E8FF1F" stroke-width="2"/><text x="75" y="25" fill="#E8FF1F" font-size="15" font-weight="700" text-anchor="middle">Spicy Dan Dan</text>
+      <rect x="160" width="160" height="38" rx="19" fill="none" stroke="#E8FF1F" stroke-width="2"/><text x="240" y="25" fill="#E8FF1F" font-size="15" font-weight="700" text-anchor="middle">Pork Dumplings</text>
+      <rect x="330" width="150" height="38" rx="19" fill="none" stroke="#3A3A40" stroke-width="2"/><text x="405" y="25" fill="#A1A1A8" font-size="15" font-weight="600" text-anchor="middle">Something else</text>
+    </g>
+
+  </g>
+
+  <!-- side notes -->
+  <g fill="#8A8A90" font-size="14">
+    <text x="940" y="134">Menu names come from</text>
+    <text x="940" y="154">the place's own menu.</text>
+    <text x="940" y="300">One question at a time,</text>
+    <text x="940" y="320">like a chat. Earlier answers</text>
+    <text x="940" y="340">stay above and can be changed.</text>
+  </g>
+</svg>

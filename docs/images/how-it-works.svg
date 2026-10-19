@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="560" rx="24" fill="#0B0B0C"/>
+
+  <!-- the Mac -->
+  <rect x="24" y="24" width="1152" height="512" rx="18" fill="none" stroke="#2C2C30" stroke-width="2" stroke-dasharray="8 8"/>
+  <text x="48" y="58" fill="#8A8A90" font-size="15" font-weight="600">YOUR MAC</text>
+
+  <!-- step 1 -->
+  <g transform="translate(48 90)">
+    <rect width="250" height="250" rx="16" fill="#18181B"/>
+    <g transform="translate(24 24)">
+      <rect width="44" height="44" rx="8" fill="#F4F1E8"/><rect x="50" width="44" height="44" rx="8" fill="#F4F1E8" opacity="0.6"/><rect x="100" width="44" height="44" rx="8" fill="#F4F1E8" opacity="0.35"/>
+      <rect y="50" width="44" height="44" rx="8" fill="#E8FF1F"/><rect x="50" y="50" width="44" height="44" rx="8" fill="#E8FF1F"/><rect x="100" y="50" width="44" height="44" rx="8" fill="#F4F1E8" opacity="0.35"/>
+    </g>
+    <text x="24" y="150" fill="#E8FF1F" font-size="14" font-weight="700">1 · FIND</text>
+    <text x="24" y="176" fill="#FFFFFF" font-size="19" font-weight="800">Food photos, as visits</text>
+    <text x="24" y="202" fill="#A1A1A8" font-size="14">Reads your Photos library</text>
+    <text x="24" y="222" fill="#A1A1A8" font-size="14">on device and groups meals</text>
+    <text x="24" y="242" fill="#A1A1A8" font-size="14">by time and place.</text>
+  </g>
+
+  <!-- arrow -->
+  <path d="M306 215 h34" stroke="#E8FF1F" stroke-width="3"/><path d="M340 207 l10 8 l-10 8 z" fill="#E8FF1F"/>
+
+  <!-- step 2 -->
+  <g transform="translate(358 90)">
+    <rect width="250" height="250" rx="16" fill="#18181B"/>
+    <g transform="translate(24 24)">
+      <circle cx="72" cy="48" r="44" fill="none" stroke="#3A3A40" stroke-width="2"/>
+      <circle cx="72" cy="48" r="7" fill="#E8FF1F"/>
+      <circle cx="40" cy="30" r="5" fill="#F4F1E8"/><circle cx="100" cy="38" r="5" fill="#F4F1E8"/><circle cx="58" cy="78" r="5" fill="#F4F1E8"/><circle cx="96" cy="72" r="5" fill="#F4F1E8"/><circle cx="84" cy="16" r="5" fill="#F4F1E8"/>
+    </g>
+    <text x="24" y="150" fill="#E8FF1F" font-size="14" font-weight="700">2 · WHERE</text>
+    <text x="24" y="176" fill="#FFFFFF" font-size="19" font-weight="800">Places nearby</text>
+    <text x="24" y="202" fill="#A1A1A8" font-size="14">Google Places lists the</text>
+    <text x="24" y="222" fill="#A1A1A8" font-size="14">restaurants around where</text>
+    <text x="24" y="242" fill="#A1A1A8" font-size="14">the photos were taken.</text>
+  </g>
+
+  <path d="M616 215 h34" stroke="#E8FF1F" stroke-width="3"/><path d="M650 207 l10 8 l-10 8 z" fill="#E8FF1F"/>
+
+  <!-- step 3 -->
+  <g transform="translate(668 90)">
+    <rect width="250" height="250" rx="16" fill="#18181B"/>
+    <g transform="translate(24 30)">
+      <rect width="150" height="22" rx="11" fill="#2C2C30"/><rect x="0" width="96" height="22" rx="11" fill="#E8FF1F"/>
+      <rect y="32" width="150" height="22" rx="11" fill="#2C2C30"/><rect y="32" width="128" height="22" rx="11" fill="#F4F1E8"/>
+      <rect y="64" width="150" height="22" rx="11" fill="#2C2C30"/><rect y="64" width="70" height="22" rx="11" fill="#F4F1E8" opacity="0.6"/>
+    </g>
+    <text x="24" y="150" fill="#E8FF1F" font-size="14" font-weight="700">3 · PREPARE</text>
+    <text x="24" y="176" fill="#FFFFFF" font-size="19" font-weight="800">Your AI does the legwork</text>
+    <text x="24" y="202" fill="#A1A1A8" font-size="14">Picks the place from the</text>
+    <text x="24" y="222" fill="#A1A1A8" font-size="14">dishes, finds the menu, names</text>
+    <text x="24" y="242" fill="#A1A1A8" font-size="14">each dish, drafts the review.</text>
+  </g>
+
+  <path d="M926 215 h34" stroke="#E8FF1F" stroke-width="3"/><path d="M960 207 l10 8 l-10 8 z" fill="#E8FF1F"/>
+
+  <!-- step 4 -->
+  <g transform="translate(978 90)">
+    <rect width="174" height="250" rx="16" fill="#18181B"/>
+    <g transform="translate(22 24)">
+      <rect width="96" height="26" rx="13" fill="#2C2C30"/>
+      <rect x="40" y="36" width="90" height="26" rx="13" fill="#E8FF1F"/>
+      <rect y="72" width="76" height="26" rx="13" fill="#2C2C30"/>
+    </g>
+    <text x="22" y="150" fill="#E8FF1F" font-size="14" font-weight="700">4 · YOU</text>
+    <text x="22" y="176" fill="#FFFFFF" font-size="19" font-weight="800">A few taps</text>
+    <text x="22" y="202" fill="#A1A1A8" font-size="14">Right place? What</text>
+    <text x="22" y="222" fill="#A1A1A8" font-size="14">did you have? How</text>
+    <text x="22" y="242" fill="#A1A1A8" font-size="14">was it?</text>
+  </g>
+
+  <!-- step 5: posting -->
+  <g transform="translate(48 372)">
+    <rect width="1104" height="140" rx="16" fill="#18181B"/>
+    <text x="24" y="40" fill="#E8FF1F" font-size="14" font-weight="700">5 · POST</text>
+    <text x="24" y="70" fill="#FFFFFF" font-size="19" font-weight="800">You post it yourself</text>
+    <text x="24" y="98" fill="#A1A1A8" font-size="14">The review is copied, the chosen photos wait in Pictures › Afterplate,</text>
+    <text x="24" y="118" fill="#A1A1A8" font-size="14">and the place opens on Google Maps. Paste, add the photos, post.</text>
+    <g transform="translate(640 26)">
+      <rect width="420" height="88" rx="12" fill="#0B0B0C" stroke="#2C2C30"/>
+      <text x="20" y="32" fill="#FFFFFF" font-size="15" font-weight="700">Corner Noodle Bar</text>
+      <text x="20" y="32" dx="160" fill="#E8FF1F" font-size="15">★★★★★</text>
+      <rect x="20" y="46" width="300" height="10" rx="5" fill="#3A3A40"/>
+      <rect x="20" y="64" width="220" height="10" rx="5" fill="#3A3A40"/>
+      <rect x="340" y="44" width="30" height="30" rx="6" fill="#F4F1E8"/><rect x="376" y="44" width="30" height="30" rx="6" fill="#E8FF1F"/>
+    </g>
+  </g>
+</svg>

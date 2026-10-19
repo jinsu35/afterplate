@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+proxy/.wrangler/
+proxy/.dev.vars
+mac/Afterplate.xcodeproj/
+mac/.build/

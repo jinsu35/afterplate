@@ -1,0 +1,9 @@
+// Signing for local builds. With no identity the app is signed ad hoc and
+// runs, but an ad-hoc signature changes on every build: macOS then treats the
+// app as new and drops its Photos permission, so each rebuild lands on the
+// first-run screen. To keep the permission, put your own development
+// certificate in Signing.local.xcconfig (not checked in):
+//
+//   CODE_SIGN_IDENTITY = Apple Development: Your Name (TEAMID)
+CODE_SIGN_IDENTITY = -
+#include? "Signing.local.xcconfig"

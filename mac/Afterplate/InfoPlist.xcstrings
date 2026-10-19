@@ -1,0 +1,38 @@
+{
+  "sourceLanguage": "ko",
+  "strings": {
+    "NSPhotoLibraryUsageDescription": {
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "밀린 음식 사진에서 방문을 찾아 정리하려면 사진 보관함을 읽어야 합니다. 사진은 복사하지 않고 그대로 둡니다."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afterplate reads your library to find food photos and group them into visits. Photos stay where they are; nothing is copied."
+          }
+        }
+      }
+    },
+    "CFBundleDisplayName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afterplate"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afterplate"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

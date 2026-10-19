@@ -1,0 +1,52 @@
+name: Afterplate
+options:
+  bundleIdPrefix: com.jinsukim
+  deploymentTarget:
+    macOS: "14.0"
+  createIntermediateGroups: true
+  # Korean is the source language; English comes from Localizable.xcstrings.
+  developmentLanguage: ko
+targets:
+  Afterplate:
+    type: application
+    platform: macOS
+    sources: [Afterplate]
+    # Linked explicitly: the Swift overlay alone was not enough for AVKit and
+    # the app aborted while building AVKit's SwiftUI metadata.
+    dependencies:
+      - sdk: AVKit.framework
+      - sdk: AVFoundation.framework
+    # Hardened Runtime refuses Photos access without this entitlement — the
+    # permission prompt never appears and the request fails silently.
+    entitlements:
+      path: Afterplate/Afterplate.entitlements
+      properties:
+        com.apple.security.personal-information.photos-library: true
+    info:
+      path: Afterplate/Info.plist
+      properties:
+        CFBundleDisplayName: Afterplate
+        CFBundleShortVersionString: "0.3"
+        LSMinimumSystemVersion: "14.0"
+        NSHumanReadableCopyright: ""
+        NSPhotoLibraryUsageDescription: 밀린 음식 사진에서 방문을 찾아 정리하려면 사진 보관함을 읽어야 합니다. 사진은 복사하지 않고 그대로 둡니다.
+        NSPrincipalClass: NSApplication
+    configFiles:
+      Debug: Signing.xcconfig
+      Release: Signing.xcconfig
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.jinsukim.afterplate
+        MARKETING_VERSION: "0.3"
+        SWIFT_VERSION: "5.9"
+        ENABLE_HARDENED_RUNTIME: YES
+        # The identity comes from Signing.xcconfig.
+        CODE_SIGN_STYLE: Manual
+        PROVISIONING_PROFILE_SPECIFIER: ""
+        ENABLE_APP_SANDBOX: NO
+        # Extract LocalizedStringKey / String(localized:) literals at build
+        # time, so the catalog's keys can be checked against the code.
+        SWIFT_EMIT_LOC_STRINGS: YES
+        LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+        # The moon jar, drawn in icon/afterplate-icon.svg.
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon

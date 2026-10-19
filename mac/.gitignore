@@ -1,0 +1,7 @@
+Afterplate.xcodeproj/
+.build/
+Signing.local.xcconfig
+release.local
+# The on-device model: each build makes its own with model/get-model.sh;
+# only the notarized app carries one.
+Afterplate/SigLIPImage.mlpackage/

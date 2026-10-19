@@ -1,0 +1,6018 @@
+{
+  "sourceLanguage": "ko",
+  "strings": {
+    " · %lld번 남음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · %lld left"
+          }
+        }
+      }
+    },
+    " · 위 지역 메뉴에서 볼 수 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · find them in the Area menu above"
+          }
+        }
+      }
+    },
+    " · 위치 없는 방문 %lld개는 목록에서만": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · %lld visits without a location are in the list only"
+          }
+        }
+      }
+    },
+    " · 지도에 보이는 곳": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · on the map"
+          }
+        }
+      }
+    },
+    "%@ %lld개": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · %lld"
+          }
+        }
+      }
+    },
+    "%@ 계정으로 열려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens as %@"
+          }
+        }
+      }
+    },
+    "%@ 로 로그인됨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signed in as %@"
+          }
+        }
+      }
+    },
+    "%@년": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        }
+      }
+    },
+    "%@년 · %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · %lld"
+          }
+        }
+      }
+    },
+    "%@에 리뷰 씀": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reviewed %@"
+          }
+        }
+      }
+    },
+    "%@에 올린 리뷰": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Review posted %@"
+          }
+        }
+      }
+    },
+    "%@을(를) 파는 곳 중 가장 가까워요 (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nearest place that serves %@ (%@)"
+          }
+        }
+      }
+    },
+    "%@을(를) 팔 수 있는 곳 (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could serve %@ (%@)"
+          }
+        }
+      }
+    },
+    "%lld / %lld장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld of %lld"
+          }
+        }
+      }
+    },
+    "%lld/%lld장 훑는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanning photos %lld/%lld"
+          }
+        }
+      }
+    },
+    "%lldm · 오차 ±%lldm": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld m · accuracy ±%lld m"
+          }
+        }
+      }
+    },
+    "%lld곳": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld places"
+          }
+        }
+      }
+    },
+    "%lld곳 더": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld more"
+          }
+        }
+      }
+    },
+    "%lld분 뒤 · 여기서 나누기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min later · split here"
+          }
+        }
+      }
+    },
+    "+%lld분": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld min"
+          }
+        }
+      }
+    },
+    "ChatGPT 로그인 오류: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ChatGPT sign-in error: %@"
+          }
+        }
+      }
+    },
+    "ChatGPT 로그인이 만료됐어요. 설정에서 다시 로그인해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your ChatGPT sign-in has expired. Sign in again in Settings."
+          }
+        }
+      }
+    },
+    "ChatGPT 요금제 사용 권한이 허락되지 않았어요. ChatGPT 설정에서 이 앱의 요금제 사용을 켜 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan usage wasn't allowed. Turn it on for this app in ChatGPT settings."
+          }
+        }
+      }
+    },
+    "ChatGPT 요금제 사용을 허락하지 않았어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan usage wasn't allowed."
+          }
+        }
+      }
+    },
+    "ChatGPT 요금제로 쓰기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use my ChatGPT plan"
+          }
+        }
+      }
+    },
+    "ChatGPT로 로그인하지 않았을 때 리뷰 문장을 쓰는 Grok용. console.x.ai에서 만들고, 쓴 만큼 요금이 나가요 (grok.com 구독과는 별개).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Used by Grok to write reviews when you're not signed in with ChatGPT. Create one at console.x.ai; you pay per use (separate from a grok.com subscription)."
+          }
+        }
+      }
+    },
+    "ChatGPT로 로그인했으면 없어도 돼요. 있으면 요금제 한도를 넘었을 때 이 키로 넘어가요. platform.openai.com에서 만들어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not needed if you're signed in with ChatGPT. If set, it takes over when your plan's limit is reached. Create one at platform.openai.com."
+          }
+        }
+      }
+    },
+    "ChatGPT에서 사용량·한도 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See usage and limits in ChatGPT"
+          }
+        }
+      }
+    },
+    "Esc 로도 닫아요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esc also closes"
+          }
+        }
+      }
+    },
+    "Finder에 이 방문 사진을 선택된 채로 엽니다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shows this visit's photos selected in Finder"
+          }
+        }
+      }
+    },
+    "ID 토큰 대상이 달라요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The ID token is for a different app."
+          }
+        }
+      }
+    },
+    "ID 토큰 발급자가 달라요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The ID token came from an unexpected issuer."
+          }
+        }
+      }
+    },
+    "ID 토큰이 이 요청 것이 아니에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The ID token doesn't match this request."
+          }
+        }
+      }
+    },
+    "OpenAI API 키": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenAI API key"
+          }
+        }
+      }
+    },
+    "OpenAI 키가 없어 메뉴를 못 찾아요. 이름은 직접 적어 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No OpenAI key, so the menu can't be looked up. Type the names yourself."
+          }
+        }
+      }
+    },
+    "OpenAI 호출을 무엇으로 낼까요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How OpenAI calls are paid"
+          }
+        }
+      }
+    },
+    "Safari에 계정이 여러 개면 리뷰를 올릴 이메일": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If Safari has several Google accounts, the one to post with"
+          }
+        }
+      }
+    },
+    "Safari에서 리뷰창 열기 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open review form in Safari →"
+          }
+        }
+      }
+    },
+    "xAI (Grok) API 키": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "xAI (Grok) API key"
+          }
+        }
+      }
+    },
+    "‘%@’ 들어간 메뉴": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menu items with “%@”"
+          }
+        }
+      }
+    },
+    "‘사진 및 동영상 추가’ → 파일창 왼쪽 즐겨찾기의 Afterplate → 전체 선택(⌘A). 이 폴더엔 지금 이 방문 사진만 있어요. Finder에 선택된 사진을 끌어다 놓아도 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“Add photos and videos” → Afterplate under Favorites in the file dialog → Select All (⌘A). The folder holds only this visit's photos. You can also drag the photos selected in Finder."
+          }
+        }
+      }
+    },
+    "← 가게": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "← Place"
+          }
+        }
+      }
+    },
+    "← 리뷰": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "← Review"
+          }
+        }
+      }
+    },
+    "← 메뉴": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "← Menu"
+          }
+        }
+      }
+    },
+    "✍️ %@ 방문으로 이미 리뷰를 올린 가게예요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "✍️ You already reviewed this place after your %@ visit"
+          }
+        }
+      }
+    },
+    "✍️ 이 가게엔 %@ 방문으로 이미 리뷰를 올렸어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "✍️ You reviewed this place after your %@ visit"
+          }
+        }
+      }
+    },
+    "가게": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place"
+          }
+        }
+      }
+    },
+    "가게 맞추기, 메뉴 찾기, 사진 이름 붙이기, 리뷰 문장까지 내 ChatGPT 요금제(Plus·Pro)로 돌릴 수 있어요. 요금제 한도를 넘으면 API 키로 넘어가요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place matching, menu search, photo naming and review writing can all run on your ChatGPT plan (Plus or Pro). Past the plan's limit, your API key takes over."
+          }
+        }
+      }
+    },
+    "가게 이름": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place name"
+          }
+        }
+      }
+    },
+    "가게 이름에 ‘%@’가 있어요 (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name says “%@” (%@)"
+          }
+        }
+      }
+    },
+    "가게 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find the place"
+          }
+        }
+      }
+    },
+    "가게가 정해져야 딥서치할 수 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick a place first to run a deep search"
+          }
+        }
+      }
+    },
+    "가게가 정해져야 딥서치할 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick a place first to run a deep search."
+          }
+        }
+      }
+    },
+    "가게가 확정돼야 메뉴를 읽을 수 있어요. 가게 단계에서 골라 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The menu needs a confirmed place. Pick one in the Place step."
+          }
+        }
+      }
+    },
+    "가게들 메뉴 뒤지는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Checking nearby menus"
+          }
+        }
+      }
+    },
+    "가까운 5곳만": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nearest 5 only"
+          }
+        }
+      }
+    },
+    "같은 건물 (%@ 표시)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Same building (listed %@)"
+          }
+        }
+      }
+    },
+    "같은 리뷰창이 열려요. 쓴 리뷰가 채워져 있고, 고쳐서 게시하면 덮어써요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens the same form with your review filled in. Posting again replaces it."
+          }
+        }
+      }
+    },
+    "건너뛰고 사진만 올리기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip, post photos only"
+          }
+        }
+      }
+    },
+    "게시": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Post"
+          }
+        }
+      }
+    },
+    "계정 선택 없이 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open without choosing an account"
+          }
+        }
+      }
+    },
+    "고르면 리뷰에 한 줄로 들어가요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Picked ones get a line in the review."
+          }
+        }
+      }
+    },
+    "괜찮았다 — 눌러서 맛있었다로": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It was fine — click to make it delicious"
+          }
+        }
+      }
+    },
+    "구글 계정 (선택)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google account (optional)"
+          }
+        }
+      }
+    },
+    "구글 리뷰엔 방문 날짜 칸이 없어서 본문에 적어요 — “%@”": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google reviews have no visit-date field, so it goes in the text — “%@”"
+          }
+        }
+      }
+    },
+    "구글 지도": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google Maps"
+          }
+        }
+      }
+    },
+    "구글 지도에 없어요. 동네를 붙여 보세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not on Google Maps. Try adding the neighborhood."
+          }
+        }
+      }
+    },
+    "구글 지도에 이 가게 메뉴가 없어요. 이름은 사진만 보고 붙인 거라 전부 추측이에요 — 딥서치로 메뉴를 찾아볼 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google Maps has no menu for this place. The names are guesses from the photos — a deep search can look for the menu."
+          }
+        }
+      }
+    },
+    "구글 지도에서 %@ 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open %@ in Google Maps"
+          }
+        }
+      }
+    },
+    "구글 지도에서 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open in Google Maps"
+          }
+        }
+      }
+    },
+    "구글 지도에서 이 가게의 리뷰와 사진을 봐요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See this place's reviews and photos in Google Maps"
+          }
+        }
+      }
+    },
+    "구글에 등록된 가게가 아니라 리뷰창을 열 수 없어요. 가게 단계에서 구글 지도로 찾아 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This place isn't on Google, so there's no review form. Find it on Google Maps in the Place step."
+          }
+        }
+      }
+    },
+    "구글에 올렸으면 눌러 주세요 — 리뷰 씀으로 옮겨요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click once it's posted on Google — moves it to Reviewed"
+          }
+        }
+      }
+    },
+    "구글은 한 가게에 리뷰를 하나만 받아요. 예전 글에 이번 방문 문단을 이어 붙여 다시 올리는 게 보통이에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google keeps one review per place. People usually add a paragraph for the new visit and post it again."
+          }
+        }
+      }
+    },
+    "권한 없이 먼저 써 보세요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try it first, no permissions"
+          }
+        }
+      }
+    },
+    "그 외": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Other"
+          }
+        }
+      }
+    },
+    "그때 쓴 리뷰 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See that review"
+          }
+        }
+      }
+    },
+    "근처 가게들의 실제 메뉴판을 웹에서 읽어서, 이 음식을 파는 곳을 위로 올려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reads nearby places' menus on the web and moves the ones that serve this food to the top"
+          }
+        }
+      }
+    },
+    "근처엔 없어요. Return 하면 구글 지도에서 찾아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not nearby. Press Return to search Google Maps."
+          }
+        }
+      }
+    },
+    "꺼내기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore"
+          }
+        }
+      }
+    },
+    "누르면 ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click: "
+          }
+        }
+      }
+    },
+    "누르면 확대": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click to zoom in"
+          }
+        }
+      }
+    },
+    "다 썼어요 · 다음 방문 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done · Next visit →"
+          }
+        }
+      }
+    },
+    "다 적었어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All named"
+          }
+        }
+      }
+    },
+    "다른 계정으로 바뀌었어요. 다시 로그인해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A different account came back. Please sign in again."
+          }
+        }
+      }
+    },
+    "다른 등록으로 돌아왔어요. 다시 시도해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A different registration came back. Please try again."
+          }
+        }
+      }
+    },
+    "다른 표현으로 ↻": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try other styles ↻"
+          }
+        }
+      }
+    },
+    "다시 누르면 이 사진에서 빼요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click again to remove it from this photo"
+          }
+        }
+      }
+    },
+    "다시 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Look again"
+          }
+        }
+      }
+    },
+    "다시 시도": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        }
+      }
+    },
+    "다시 써보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Write again"
+          }
+        }
+      }
+    },
+    "다시 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search again"
+          }
+        }
+      }
+    },
+    "다음 사진": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next photo"
+          }
+        }
+      }
+    },
+    "다음: 리뷰 쓰기 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next: Write review →"
+          }
+        }
+      }
+    },
+    "다음: 메뉴 이름 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next: Name the dishes →"
+          }
+        }
+      }
+    },
+    "다음: 올리기 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next: Post →"
+          }
+        }
+      }
+    },
+    "닫기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "딥서치 — 이 가게 메뉴판 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deep search — find this place's menu"
+          }
+        }
+      }
+    },
+    "딥서치 — 이 음식 파는 곳 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deep search — find who serves this"
+          }
+        }
+      }
+    },
+    "딥서치를 다 썼어요 — %lld일 뒤에 한 번 다시 생겨요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No deep searches left — one more in %lld days"
+          }
+        }
+      }
+    },
+    "로그아웃": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign Out"
+          }
+        }
+      }
+    },
+    "로그인 응답을 받을 포트를 열지 못했어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't open a local port for the sign-in reply."
+          }
+        }
+      }
+    },
+    "로그인 응답이 이 요청과 맞지 않아요. 다시 시도해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The sign-in reply didn't match this request. Please try again."
+          }
+        }
+      }
+    },
+    "로그인 코드가 오지 않았어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No sign-in code came back."
+          }
+        }
+      }
+    },
+    "로그인 화면에서 멈추면: Safari에 로그인된 계정으로 바로 열어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If it stops at a sign-in page: opens with the account Safari is signed in to"
+          }
+        }
+      }
+    },
+    "로그인을 취소했어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign-in canceled."
+          }
+        }
+      }
+    },
+    "로그인이 끝났어요. 앱으로 돌아가세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You're signed in. You can go back to the app."
+          }
+        }
+      }
+    },
+    "로그인이 만료됐어요. 다시 로그인해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your sign-in expired. Please sign in again."
+          }
+        }
+      }
+    },
+    "리뷰": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Review"
+          }
+        }
+      }
+    },
+    "리뷰 고르기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick a review"
+          }
+        }
+      }
+    },
+    "리뷰 다시 올리기 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Post again →"
+          }
+        }
+      }
+    },
+    "리뷰 단계에서 문장을 먼저 골라 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick a review in the Review step first."
+          }
+        }
+      }
+    },
+    "리뷰 문장 없이 사진만 구글에 올려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Posts photos to Google without review text"
+          }
+        }
+      }
+    },
+    "리뷰 씀": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reviewed"
+          }
+        }
+      }
+    },
+    "리뷰 안 쓸 방문은 보관함으로 치워서 목록을 정리해요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Move visits you won't review to the Archive to tidy the list"
+          }
+        }
+      }
+    },
+    "리뷰 안 쓸 방문은 보관함으로 치워요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Move visits you won't review to the Archive"
+          }
+        }
+      }
+    },
+    "리뷰 올렸어요 ✓": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Posted ✓"
+          }
+        }
+      }
+    },
+    "리뷰에 들어갈 것": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In the review"
+          }
+        }
+      }
+    },
+    "리뷰에서 빼기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from review"
+          }
+        }
+      }
+    },
+    "리뷰창 다시 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reopen review form"
+          }
+        }
+      }
+    },
+    "리뷰창 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the review form"
+          }
+        }
+      }
+    },
+    "리뷰창을 한 번 훑어보고 게시(Post)를 눌러요. 누르고 오면 아래 ‘리뷰 썼어요’로 이 방문을 마무리해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Look over the form and click Post. Then come back and finish this visit with “Posted” below."
+          }
+        }
+      }
+    },
+    "마음에 드는 표현을 고르세요. 다음 화면에서 고쳐 쓸 수 있고, 영어로도 볼 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick the one you like. You can edit it on the next screen."
+          }
+        }
+      }
+    },
+    "맛있었다 — 눌러서 괜찮았다로": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It was delicious — click to make it fine"
+          }
+        }
+      }
+    },
+    "먹은 것만, 세 가지 표현으로.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Just what you ate, three ways."
+          }
+        }
+      }
+    },
+    "메뉴": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menu"
+          }
+        }
+      }
+    },
+    "메뉴 이름": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dish name"
+          }
+        }
+      }
+    },
+    "메뉴 이름 붙이는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naming dishes"
+          }
+        }
+      }
+    },
+    "메뉴 이름이나\n태그를 하나 골라 주세요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a dish\nor a tag first"
+          }
+        }
+      }
+    },
+    "메뉴 적기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name the dishes"
+          }
+        }
+      }
+    },
+    "메뉴 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find menu"
+          }
+        }
+      }
+    },
+    "메뉴나 좋아요가 바뀌어서 새로 쓰는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dishes or likes changed — writing again"
+          }
+        }
+      }
+    },
+    "메뉴에 없어요. ⏎로 적은 그대로 넣어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not on the menu. ⏎ adds it as typed."
+          }
+        }
+      }
+    },
+    "메뉴에서는 못 찾았어요. 아래에서 골라 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not found in the menus. Pick from the list below."
+          }
+        }
+      }
+    },
+    "모두 되돌리기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore all"
+          }
+        }
+      }
+    },
+    "문장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text"
+          }
+        }
+      }
+    },
+    "문장 없이 사진만 올려요. 리뷰창에서 별점과 사진만 넣으면 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos only, no text. Just add stars and photos in the form."
+          }
+        }
+      }
+    },
+    "문장 준비됨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text ready"
+          }
+        }
+      }
+    },
+    "문장이 복사된 채로 Safari에 구글 리뷰창이 열려요. 별점을 누르고 ⌘V.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copies the text and opens Google's review form in Safari. Pick the stars, then ⌘V."
+          }
+        }
+      }
+    },
+    "뭘 드셨나요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What did you have?"
+          }
+        }
+      }
+    },
+    "밀린 음식 사진,\n여기서 한 번에.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All those food photos,\nreviewed at last."
+          }
+        }
+      }
+    },
+    "방금 찾아봤는데 웹에 이 가게 메뉴가 없어요. 이름은 직접 적어 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Just checked — no menu for this place on the web. Type the names yourself."
+          }
+        }
+      }
+    },
+    "방금 찾아온 메뉴예요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menu just found."
+          }
+        }
+      }
+    },
+    "방문": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Visits"
+          }
+        }
+      }
+    },
+    "방문 %lld개": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld visits"
+          }
+        }
+      }
+    },
+    "방문 %lld개 · 작게 본 사진 %lld/%lld장 다시 보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld visits · rechecking small photos %lld/%lld"
+          }
+        }
+      }
+    },
+    "방문 날짜 한 줄 붙이기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add the visit date"
+          }
+        }
+      }
+    },
+    "방문 목록으로 다시 올려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puts it back in the visit list"
+          }
+        }
+      }
+    },
+    "보관": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive"
+          }
+        }
+      }
+    },
+    "보관 풀기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unarchive"
+          }
+        }
+      }
+    },
+    "보관한 방문이 여기 모여요. 목록을 정리하려고 치운 것들이에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archived visits live here — the ones you set aside to tidy the list."
+          }
+        }
+      }
+    },
+    "보관함": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive"
+          }
+        }
+      }
+    },
+    "보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View"
+          }
+        }
+      }
+    },
+    "복사하고 Safari에서 리뷰창 열기 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy and open in Safari →"
+          }
+        }
+      }
+    },
+    "분위기 좋았다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Great atmosphere"
+          }
+        }
+      }
+    },
+    "브라우저 창을 닫았으면 취소를 눌러 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Closed the browser window? Click Cancel."
+          }
+        }
+      }
+    },
+    "브라우저를 여는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opening the browser…"
+          }
+        }
+      }
+    },
+    "브라우저에서 로그인이 끝나지 않았어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign-in wasn't finished in the browser."
+          }
+        }
+      }
+    },
+    "브라우저에서 로그인하는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signing in in the browser…"
+          }
+        }
+      }
+    },
+    "빼기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove"
+          }
+        }
+      }
+    },
+    "뺀 사진 %lld장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld removed"
+          }
+        }
+      }
+    },
+    "사진": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos"
+          }
+        }
+      }
+    },
+    "사진 %lld장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld photos"
+          }
+        }
+      }
+    },
+    "사진 넣기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add the photos"
+          }
+        }
+      }
+    },
+    "사진 다시 띄우기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show photos again"
+          }
+        }
+      }
+    },
+    "사진 보관함에서 음식 사진을 찾아 방문 단위로 묶고, 가게와 메뉴를 읽어 리뷰 초안까지 만들어 둡니다. 사진은 복사하지 않고 그대로 둡니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afterplate finds the food photos in your library, groups them into visits, works out the place and the dishes, and drafts the review. Your photos stay where they are."
+          }
+        }
+      }
+    },
+    "사진 보관함에서 찾아주기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use my Photos library"
+          }
+        }
+      }
+    },
+    "사진 위치로 가게를 찾는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding places near the photos"
+          }
+        }
+      }
+    },
+    "사진 접근이 꺼져 있어요. 폴더로 먼저 써 보시고, 마음에 들면 시스템 설정에서 켜 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos access is off. Try a folder first, and turn access on in System Settings if you like it."
+          }
+        }
+      }
+    },
+    "사진 찍힌 자리": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where the photos were taken"
+          }
+        }
+      }
+    },
+    "사진 폴더 고르기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a Photo Folder"
+          }
+        }
+      }
+    },
+    "사진 훑는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanning photos"
+          }
+        }
+      }
+    },
+    "사진과 맞는 곳": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Best match for the photos"
+          }
+        }
+      }
+    },
+    "사진마다 맞춰 보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matching each photo"
+          }
+        }
+      }
+    },
+    "사진으로 가게를 확인하는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Checking the photos against nearby places"
+          }
+        }
+      }
+    },
+    "사진으로 다시 확인": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check the photos again"
+          }
+        }
+      }
+    },
+    "사진으로는 못 정했어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The photos didn't settle it"
+          }
+        }
+      }
+    },
+    "사진을 찍은 자리를 지도에서 열어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens where the photos were taken on a map"
+          }
+        }
+      }
+    },
+    "사진이 들어 있는 폴더를 고르면 바로 방문으로 묶어 보여줍니다. 사진 보관함 권한은 필요하지 않아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a folder of photos and they're grouped into visits right away. No Photos permission needed."
+          }
+        }
+      }
+    },
+    "새 키로 바꾸기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replace with a new key"
+          }
+        }
+      }
+    },
+    "서비스 좋았다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Great service"
+          }
+        }
+      }
+    },
+    "설정 — ChatGPT 로그인, API 키": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings — ChatGPT sign-in, API keys"
+          }
+        }
+      }
+    },
+    "세 가지로 써보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Writing three versions"
+          }
+        }
+      }
+    },
+    "손님 리뷰에 “%@” (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A review mentions “%@” (%@)"
+          }
+        }
+      }
+    },
+    "숫자 = 겹친 핀": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Number = overlapping pins"
+          }
+        }
+      }
+    },
+    "시계 방향으로 돌리기 — 올릴 때 이 방향으로 나가요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rotate clockwise — posted this way"
+          }
+        }
+      }
+    },
+    "시스템 설정 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open System Settings"
+          }
+        }
+      }
+    },
+    "쓸 수 있는 모델: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Available models: %@"
+          }
+        }
+      }
+    },
+    "아니면": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Or"
+          }
+        }
+      }
+    },
+    "아직 안 썼어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not posted yet"
+          }
+        }
+      }
+    },
+    "아직 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing yet"
+          }
+        }
+      }
+    },
+    "앞 방문과 합치기 — %@, 사진 %lld장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merge with the visit before — %@, %lld photos"
+          }
+        }
+      }
+    },
+    "앱 등록이 끝나지 않았어요. 다시 시도해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App registration didn't finish. Please try again."
+          }
+        }
+      }
+    },
+    "앱 언어 / App language": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App language / 앱 언어"
+          }
+        }
+      }
+    },
+    "앱의 추측이에요. 맞으면 눌러서 넣어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The app's guess. Click if it's right."
+          }
+        }
+      }
+    },
+    "약 $0.05 · 10초 · 방문당 1번": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About $0.05 · 10 sec · once per visit"
+          }
+        }
+      }
+    },
+    "약 $0.06 · 15초": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About $0.06 · 15 sec"
+          }
+        }
+      }
+    },
+    "어느 가게였나요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where was this?"
+          }
+        }
+      }
+    },
+    "어느 가게였지?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where was this?"
+          }
+        }
+      }
+    },
+    "어디서 먹었나요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where you ate"
+          }
+        }
+      }
+    },
+    "여기 해당하는 방문이 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No visits here"
+          }
+        }
+      }
+    },
+    "여기서 고치면 저장돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edits here are saved."
+          }
+        }
+      }
+    },
+    "여기서 고치면 저장돼요. 영어는 이 문장을 그대로 옮깁니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edits here are saved. The English follows this text."
+          }
+        }
+      }
+    },
+    "연결이 안 돼서 메뉴를 못 찾았어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't connect, so no menu was found."
+          }
+        }
+      }
+    },
+    "연도": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Year"
+          }
+        }
+      }
+    },
+    "열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open"
+          }
+        }
+      }
+    },
+    "영어 문장이 아직 없어요 — 옮기는 중이거나 한국어 문장이 비어 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No English text yet — it's translating, or the Korean is empty."
+          }
+        }
+      }
+    },
+    "예전 리뷰 빼기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove earlier review"
+          }
+        }
+      }
+    },
+    "예전 리뷰에 이어 쓰기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to my earlier review"
+          }
+        }
+      }
+    },
+    "오른쪽에서 고르거나, 다시 확인해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick on the right, or check again."
+          }
+        }
+      }
+    },
+    "오차 범위 안이에요 — 거리로는 옆집과 구별이 안 되는 자리": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Within the GPS error — distance alone can't tell it from next door"
+          }
+        }
+      }
+    },
+    "올리기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Post"
+          }
+        }
+      }
+    },
+    "웹에서 %@ 메뉴를 찾는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looking up %@'s menu on the web…"
+          }
+        }
+      }
+    },
+    "웹에서 이 가게 메뉴를 못 찾았어요. 이름은 직접 적어 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No menu found on the web. Type the names yourself."
+          }
+        }
+      }
+    },
+    "웹에서 이 사진 메뉴를 못 찾았어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't find this photo's dish on the web."
+          }
+        }
+      }
+    },
+    "웹에서 찾는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching the web"
+          }
+        }
+      }
+    },
+    "웹에서도 이 가게 메뉴를 못 찾았어요. 이름은 직접 적어 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No menu on the web either. Type the names yourself."
+          }
+        }
+      }
+    },
+    "음식 말고, 이 가게는": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Besides the food"
+          }
+        }
+      }
+    },
+    "음식 사진이 들어 있는 폴더를 고르세요. 하위 폴더까지 함께 읽습니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a folder with food photos. Subfolders are included."
+          }
+        }
+      }
+    },
+    "이 가게 맞아요 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That's the place →"
+          }
+        }
+      }
+    },
+    "이 가게 메뉴": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menu"
+          }
+        }
+      }
+    },
+    "이 가게 메뉴 %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menu · %lld"
+          }
+        }
+      }
+    },
+    "이 가게가 파는 메뉴를 웹에서 찾아 목록에 채우고, 사진 이름도 다시 붙여요 (10초쯤)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looks up what this place sells, fills the list and renames the photos (about 10 sec)"
+          }
+        }
+      }
+    },
+    "이 근처 %lld곳 더": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld more nearby"
+          }
+        }
+      }
+    },
+    "이 방문에 다시 넣기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put back in this visit"
+          }
+        }
+      }
+    },
+    "이 방문에서 빼기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from this visit"
+          }
+        }
+      }
+    },
+    "이 방문에서는 이미 한 번 찾아봤어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Already searched for this visit"
+          }
+        }
+      }
+    },
+    "이 방문은 다 썼어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Used for this visit"
+          }
+        }
+      }
+    },
+    "이 방문을 리뷰 씀으로 표시하고 다음 방문을 엽니다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marks this visit reviewed and opens the next one"
+          }
+        }
+      }
+    },
+    "이 방문을 지도에서 봐요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show this visit on the map"
+          }
+        }
+      }
+    },
+    "이 사진, 이거였나요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was this it?"
+          }
+        }
+      }
+    },
+    "이 사진에 %@ 추가": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add %@ to this photo"
+          }
+        }
+      }
+    },
+    "이 사진은 가게 모습이네요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This one shows the place"
+          }
+        }
+      }
+    },
+    "이 사진은 웹에서도 못 찾았어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not found on the web either."
+          }
+        }
+      }
+    },
+    "이 순서(왼쪽부터)로 폴더에 번호가 붙어요. 끌어서 순서를 바꿀 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Files are numbered in this order, left to right. Drag to reorder."
+          }
+        }
+      }
+    },
+    "이 탭의 방문이 모두 보이게 지도를 넓혀요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zooms out to show every visit in this tab"
+          }
+        }
+      }
+    },
+    "이 폴더 읽기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read This Folder"
+          }
+        }
+      }
+    },
+    "이 표현으로": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use this"
+          }
+        }
+      }
+    },
+    "이 표현으로 ✓": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Using this ✓"
+          }
+        }
+      }
+    },
+    "이건 뭐였어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What was this?"
+          }
+        }
+      }
+    },
+    "이번 주 딥서치를 다 썼어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No deep searches left this week"
+          }
+        }
+      }
+    },
+    "이어 붙인 예전 문단과 그 날짜 줄을 뺍니다. 이번 방문 문장만 남아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removes the earlier paragraphs and their dates, leaving only this visit's text."
+          }
+        }
+      }
+    },
+    "작성중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In progress"
+          }
+        }
+      }
+    },
+    "저장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "저장됨 ····%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saved ····%@"
+          }
+        }
+      }
+    },
+    "전망 좋았다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Great view"
+          }
+        }
+      }
+    },
+    "전부": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All"
+          }
+        }
+      }
+    },
+    "전에 고른 문장": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previously picked"
+          }
+        }
+      }
+    },
+    "전체 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show All"
+          }
+        }
+      }
+    },
+    "접기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide"
+          }
+        }
+      }
+    },
+    "주 %lld번 중 %lld번": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld a week · %lld left"
+          }
+        }
+      }
+    },
+    "지금 지도 안에는 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None on the map right now"
+          }
+        }
+      }
+    },
+    "지금은 API 키로 돌아가요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Using API keys for now."
+          }
+        }
+      }
+    },
+    "지도": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Map"
+          }
+        }
+      }
+    },
+    "지도 밖에 %lld개 · 지도 넓혀 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld off the map · zoom out"
+          }
+        }
+      }
+    },
+    "지도 밖에 %lld개 더": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld more off the map"
+          }
+        }
+      }
+    },
+    "지도 밖에 %lld개 더 · 지도 넓혀 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld more off the map · zoom out"
+          }
+        }
+      }
+    },
+    "지도 밖에 %lld개 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld off the map"
+          }
+        }
+      }
+    },
+    "지도에서": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On Map"
+          }
+        }
+      }
+    },
+    "지역": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area"
+          }
+        }
+      }
+    },
+    "지우기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete"
+          }
+        }
+      }
+    },
+    "진행 순서": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steps"
+          }
+        }
+      }
+    },
+    "초안 3개 준비됨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 drafts ready"
+          }
+        }
+      }
+    },
+    "최근 방문 문단을 위에, 예전 것을 아래에 두고 문단마다 방문 날짜를 붙여요. 입력창의 ‘예전 리뷰 빼기’로 되돌려요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puts the latest visit's paragraph on top and earlier ones below, each with its date. Undo with “Remove earlier review”."
+          }
+        }
+      }
+    },
+    "추가하기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add"
+          }
+        }
+      }
+    },
+    "추천": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suggested"
+          }
+        }
+      }
+    },
+    "추측": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guess"
+          }
+        }
+      }
+    },
+    "출처: ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sources: "
+          }
+        }
+      }
+    },
+    "취소": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "클릭하거나 Esc로 닫기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click or press Esc to close"
+          }
+        }
+      }
+    },
+    "키 붙여넣기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste key"
+          }
+        }
+      }
+    },
+    "토큰 요청 실패: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Token request failed: %@"
+          }
+        }
+      }
+    },
+    "토큰을 받지 못했어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No token received."
+          }
+        }
+      }
+    },
+    "폴더로 시작하면 아무 권한도 필요하지 않아요. 보관함 전체에서 찾아주는 건 나중에 켜면 됩니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Starting with a folder needs no permissions. You can let it search your whole library later."
+          }
+        }
+      }
+    },
+    "핀에 올리면 미리보기, 누르면 바로 그 방문. 왼쪽 목록은 지도에 보이는 곳만 보여줘요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hover a pin to preview, click to open. The list shows what's on the map."
+          }
+        }
+      }
+    },
+    "하나씩 적고 ⏎. 다 적었으면 빈 칸에서 ⏎로 다음 사진.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One at a time, then ⏎. ⏎ on an empty field goes to the next photo."
+          }
+        }
+      }
+    },
+    "한 끼인데 둘로 나뉘었으면 눌러 주세요. 실내에서 GPS가 흔들리면 이렇게 갈라져요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click if one meal got split in two — indoor GPS drift does that."
+          }
+        }
+      }
+    },
+    "한 방문은 가게 → 메뉴 → 리뷰 → 올리기 순서로 끝냅니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each visit goes Place → Menu → Review → Post."
+          }
+        }
+      }
+    },
+    "한국어 문장을 영어로 옮기는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Translating into English"
+          }
+        }
+      }
+    },
+    "한국어 최종 문장을 옮긴 영어예요. 여기서 고쳐도 되고, 한국어를 고치면 새로 옮깁니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "English translation of the final Korean text. Edit here, or edit the Korean to translate again."
+          }
+        }
+      }
+    },
+    "확인하는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Checking…"
+          }
+        }
+      }
+    },
+    "확정한 가게": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirmed place"
+          }
+        }
+      }
+    },
+    "📍 근처": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "📍 Nearby"
+          }
+        }
+      }
+    },
+    "📍 근처 %lld곳 · 10초쯤 걸려요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "📍 %lld nearby · about 10 sec"
+          }
+        }
+      }
+    },
+    "📍 근처에 등록된 가게가 없어요. 이름을 적고 Return.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "📍 Nothing listed nearby. Type a name and press Return."
+          }
+        }
+      }
+    },
+    "📍 근처에서 못 찾았어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "📍 Nothing found nearby"
+          }
+        }
+      }
+    },
+    "📍 위치 정보가 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "📍 No location"
+          }
+        }
+      }
+    },
+    "📍 지도를 못 불러왔어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "📍 Couldn't load the map"
+          }
+        }
+      }
+    },
+    "웹에서 메뉴 찾는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching the web for the menu"
+          }
+        }
+      }
+    },
+    "웹에서 이 가게 메뉴를 찾고, 사진마다 추측을 붙여요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finds this place's menu on the web and guesses each photo's dish."
+          }
+        }
+      }
+    },
+    "%@ →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ →"
+          }
+        }
+      }
+    },
+    "%@ 리뷰까지 마쳤어요. 지금까지 구글에 %lld개 올렸어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ is done. That's %2$lld reviews on Google so far."
+          }
+        }
+      }
+    },
+    "%@ 먹었어요 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Had %@ →"
+          }
+        }
+      }
+    },
+    "%@ 어땠어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How was the %@?"
+          }
+        }
+      }
+    },
+    "%@ 연결됨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connected as %@"
+          }
+        }
+      }
+    },
+    "%@ 외 %lld개": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ and %2$lld more"
+          }
+        }
+      }
+    },
+    "%@ 이어서 할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to %@."
+          }
+        }
+      }
+    },
+    "%@에서 드셨어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did you eat at %@?"
+          }
+        }
+      }
+    },
+    "%lld개 준비 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing %lld"
+          }
+        }
+      }
+    },
+    "ChatGPT 사용 한도에 닿아 준비를 멈췄어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paused: ChatGPT usage limit reached"
+          }
+        }
+      }
+    },
+    "ChatGPT로 로그인하면 방문을 미리 준비해 둬요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign in with ChatGPT and your visits get prepared ahead"
+          }
+        }
+      }
+    },
+    "Grok 계정 연결": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect Grok account"
+          }
+        }
+      }
+    },
+    "Grok 사용 한도에 닿아 준비를 멈췄어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paused: Grok usage limit reached"
+          }
+        }
+      }
+    },
+    "SuperGrok 또는 X Premium+ 구독이 있어야 해요. 비밀번호는 x.ai에서만 입력해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Needs SuperGrok or X Premium+. Your password is only entered at x.ai."
+          }
+        }
+      }
+    },
+    "x.ai 승인 창 다시 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the x.ai approval window again"
+          }
+        }
+      }
+    },
+    "x.ai 응답을 읽지 못했어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read x.ai's response."
+          }
+        }
+      }
+    },
+    "x.ai 창에서 이 코드를 확인하고 승인해 주세요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check this code in the x.ai window and approve"
+          }
+        }
+      }
+    },
+    "x.ai에서 연결 코드를 받지 못했어요. 잠시 뒤 다시 해 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Didn't get a connection code from x.ai. Try again in a moment."
+          }
+        }
+      }
+    },
+    "x.ai에서 연결을 거절했어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "x.ai declined the connection."
+          }
+        }
+      }
+    },
+    "가게 맞추기, 메뉴 찾기, 사진 이름 붙이기, 리뷰 문장, 미리 준비까지 고른 쪽의 내 구독으로 돌아가요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matching places, finding menus, naming photos, writing reviews and preparing ahead all run on the subscription you pick."
+          }
+        }
+      }
+    },
+    "가게 얘기 다시 할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About the place again."
+          }
+        }
+      }
+    },
+    "고쳐 쓰기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit this draft"
+          }
+        }
+      }
+    },
+    "괜찮았다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It was fine"
+          }
+        }
+      }
+    },
+    "구글": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google"
+          }
+        }
+      }
+    },
+    "구글 지도에서 찾는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching Google Maps"
+          }
+        }
+      }
+    },
+    "구글에 올릴까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Post it on Google?"
+          }
+        }
+      }
+    },
+    "구독 연결 없이 Grok을 쓸 때. console.x.ai에서 만들고, 쓴 만큼 요금이 나가요 (grok.com 구독과는 별개).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "For Grok without a subscription. Create it at console.x.ai; billed by use (separate from a grok.com subscription)."
+          }
+        }
+      }
+    },
+    "그대로": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kept as it was"
+          }
+        }
+      }
+    },
+    "그대로 둘게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep the current answer"
+          }
+        }
+      }
+    },
+    "글 수정할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changing the review text."
+          }
+        }
+      }
+    },
+    "글 없이 사진만": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos only, no text"
+          }
+        }
+      }
+    },
+    "기다리는 동안 다음 방문": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next visit while waiting"
+          }
+        }
+      }
+    },
+    "기억 안 나요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Don't remember"
+          }
+        }
+      }
+    },
+    "나중에": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later"
+          }
+        }
+      }
+    },
+    "남은 방문 %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld visits left"
+          }
+        }
+      }
+    },
+    "다 별로예요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None of these drafts"
+          }
+        }
+      }
+    },
+    "다 올렸어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did you post the review?"
+          }
+        }
+      }
+    },
+    "다른 곳이에요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It was another place"
+          }
+        }
+      }
+    },
+    "다시 써 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Write drafts again"
+          }
+        }
+      }
+    },
+    "다시 여쭤볼게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Asking again about the dish."
+          }
+        }
+      }
+    },
+    "다음 방문 준비하는 중이에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Getting the next visit ready."
+          }
+        }
+      }
+    },
+    "다음 방문이에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Here's the next visit."
+          }
+        }
+      }
+    },
+    "되돌리기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put the photo back"
+          }
+        }
+      }
+    },
+    "딱히 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing in particular"
+          }
+        }
+      }
+    },
+    "딱히 없어요 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing in particular →"
+          }
+        }
+      }
+    },
+    "맛은 안 쓸게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Don't mention the taste"
+          }
+        }
+      }
+    },
+    "맛있었다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It was delicious"
+          }
+        }
+      }
+    },
+    "맞아요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yes, it was there"
+          }
+        }
+      }
+    },
+    "먹은 것": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dishes"
+          }
+        }
+      }
+    },
+    "메뉴 수정할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changing the menu."
+          }
+        }
+      }
+    },
+    "메뉴 찾는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding the menu"
+          }
+        }
+      }
+    },
+    "메뉴를 못 찾았어요. 뭐 드셨어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't find the menu. What did you have?"
+          }
+        }
+      }
+    },
+    "메뉴를 바꿨어요. 맛과 글은 다시 정할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changed the menu. Let's redo the taste and the text."
+          }
+        }
+      }
+    },
+    "목록에 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The place isn't listed"
+          }
+        }
+      }
+    },
+    "목록에 없으면 직접 쓰기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dish not listed? Type it here"
+          }
+        }
+      }
+    },
+    "못 찾았어요. 동네 이름을 붙여 보세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No place found. Try adding the neighborhood."
+          }
+        }
+      }
+    },
+    "뭐 드셨어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What did you have?"
+          }
+        }
+      }
+    },
+    "밥 아니에요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not a meal"
+          }
+        }
+      }
+    },
+    "밥 아니에요 · 보관": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not a meal · archived"
+          }
+        }
+      }
+    },
+    "방문 %lld개를 미리 준비하고 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing %lld visits ahead"
+          }
+        }
+      }
+    },
+    "별로였다": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It was disappointing"
+          }
+        }
+      }
+    },
+    "보관한 방문은 지난 리뷰 · 지도의 보관함에서 다시 꺼낼 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archived visits can be brought back from the archive in Past reviews · Map."
+          }
+        }
+      }
+    },
+    "보관할게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive this visit"
+          }
+        }
+      }
+    },
+    "보내기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send"
+          }
+        }
+      }
+    },
+    "분위기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atmosphere"
+          }
+        }
+      }
+    },
+    "사진 되돌렸어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put the photo back"
+          }
+        }
+      }
+    },
+    "사진 하나 뺐어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Took a photo out"
+          }
+        }
+      }
+    },
+    "사진만": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos only"
+          }
+        }
+      }
+    },
+    "사진으로 가게 확인 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Checking the place from the photos"
+          }
+        }
+      }
+    },
+    "설명 그만": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stop the tips"
+          }
+        }
+      }
+    },
+    "설정 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Settings"
+          }
+        }
+      }
+    },
+    "쓸 방문이 없어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No visits to write about"
+          }
+        }
+      }
+    },
+    "아직 아니에요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not yet"
+          }
+        }
+      }
+    },
+    "아직 안 정했어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not decided yet"
+          }
+        }
+      }
+    },
+    "어디서 드셨어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where did you eat?"
+          }
+        }
+      }
+    },
+    "어떤 AI로 생각할까요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Which AI should do the thinking"
+          }
+        }
+      }
+    },
+    "연결 끊기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disconnect"
+          }
+        }
+      }
+    },
+    "연결 실패: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connection failed: %@"
+          }
+        }
+      }
+    },
+    "연결 코드가 만료됐어요. 다시 눌러 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The connection code expired. Press again."
+          }
+        }
+      }
+    },
+    "연결은 됐지만 이 Grok 요금제로는 앱에서 쓸 수 없어요 (SuperGrok 이상 필요). 대신 아래에 xAI API 키를 넣을 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connected, but this Grok plan can't be used in the app (needs SuperGrok or higher). You can enter an xAI API key below instead."
+          }
+        }
+      }
+    },
+    "올렸어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Posted"
+          }
+        }
+      }
+    },
+    "올리기 다시 할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opening the review form again."
+          }
+        }
+      }
+    },
+    "음식 말고도 좋았던 게 있어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anything good besides the food?"
+          }
+        }
+      }
+    },
+    "이 가게로 정하기 ✓": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose this place ✓"
+          }
+        }
+      }
+    },
+    "이 메뉴로 정하기 ✓": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose these dishes ✓"
+          }
+        }
+      }
+    },
+    "이 방문 리뷰까지 마쳤어요. 지금까지 구글에 %lld개 올렸어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This visit is done. That's %lld reviews on Google so far."
+          }
+        }
+      }
+    },
+    "이 방문 이어서 할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to this visit."
+          }
+        }
+      }
+    },
+    "이 빌드에는 Grok 연결용 앱 ID가 아직 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This build has no app ID for connecting Grok yet."
+          }
+        }
+      }
+    },
+    "이렇게 쓸게요 →": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add these to the review →"
+          }
+        }
+      }
+    },
+    "이름으로 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search by name"
+          }
+        }
+      }
+    },
+    "자꾸 미루시네요. 이 방문은 보관할까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You keep putting this off. Archive this visit?"
+          }
+        }
+      }
+    },
+    "장소 수정할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changing the place."
+          }
+        }
+      }
+    },
+    "장소를 %@에서 %@ 바꿨어요. 메뉴부터 다시 정할게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changed the place from %1$@ to %2$@. Let's pick the menu again."
+          }
+        }
+      }
+    },
+    "준비된 %lld개 먼저 보기 →": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "See the ready one first →"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "See the %lld ready ones first →"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "준비된 방문을 하나씩 보는 피드로": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To the feed of prepared visits, one at a time"
+          }
+        }
+      }
+    },
+    "지금은 남은 방문이 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No visits left for now."
+          }
+        }
+      }
+    },
+    "지난 리뷰 · 지도": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Past reviews · Map"
+          }
+        }
+      }
+    },
+    "직접": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My own"
+          }
+        }
+      }
+    },
+    "직접 쓰기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Write my own review"
+          }
+        }
+      }
+    },
+    "직접 쓸게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type the dishes myself"
+          }
+        }
+      }
+    },
+    "찾은 것들을 정리하는 중이에요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sorting out what was found"
+          }
+        }
+      }
+    },
+    "초안": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Draft"
+          }
+        }
+      }
+    },
+    "초안 셋 더": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three more drafts"
+          }
+        }
+      }
+    },
+    "초안 쓰는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Writing drafts"
+          }
+        }
+      }
+    },
+    "피드": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feed"
+          }
+        }
+      }
+    },
+    "어느 초안이 마음에 들어요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Which draft do you like?"
+          }
+        }
+      }
+    },
+    "Claude — 내 API 키, 쓴 만큼 요금": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude — my API key, paid per use"
+          }
+        }
+      }
+    },
+    "Claude API 키": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude API key"
+          }
+        }
+      }
+    },
+    "Claude 준비 예산 $1을 다 써서 멈췄어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing stopped: the $1 Claude budget is spent"
+          }
+        }
+      }
+    },
+    "가게 맞추기, 메뉴 찾기, 사진 이름 붙이기, 리뷰 문장, 미리 준비까지 고른 AI가 해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The AI you choose finds the place and the menu, names the photos, writes the review drafts and prepares visits ahead."
+          }
+        }
+      }
+    },
+    "비밀번호는 chatgpt.com에서만 입력해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your password is entered only on chatgpt.com."
+          }
+        }
+      }
+    },
+    "설정에서 AI를 연결하면 방문을 미리 준비해 둬요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect an AI in Settings to have visits prepared ahead"
+          }
+        }
+      }
+    },
+    "Claude API 크레딧을 다 써서 멈췄어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing stopped: the Claude API credit is used up"
+          }
+        }
+      }
+    },
+    "아래에 더 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More below"
+          }
+        }
+      }
+    },
+    "대화로 돌아가기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to the conversation"
+          }
+        }
+      }
+    },
+    "이 질문에 다시 답할까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Answer this question again?"
+          }
+        }
+      }
+    },
+    "맨 아래에서 다시 물어볼게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I'll ask it again at the bottom."
+          }
+        }
+      }
+    },
+    "그대로 두기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep it"
+          }
+        }
+      }
+    },
+    "다시 답하기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Answer again"
+          }
+        }
+      }
+    },
+    "알겠어요. 새 초안을 써 볼게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Got it. I'll write new drafts."
+          }
+        }
+      }
+    },
+    "아까 미룬 질문, 다시 물어볼게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You put this off earlier, so I'm asking again."
+          }
+        }
+      }
+    },
+    "남은 방문은 이것뿐이라 미뤄 뒀어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is the only visit left, so it's put off for now."
+          }
+        }
+      }
+    },
+    "지금 할게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do it now"
+          }
+        }
+      }
+    },
+    "지도에서 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show on a map"
+          }
+        }
+      }
+    },
+    "지도 앱에서 열기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open in Maps"
+          }
+        }
+      }
+    },
+    "완료": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "이 방문은 나중에 할게요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Come back to this visit later"
+          }
+        }
+      }
+    },
+    "근처에서 찾은 가게가 없어요. 이름으로 찾아볼게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No places found nearby. Let's search by name."
+          }
+        }
+      }
+    },
+    "근처 가게 %lld곳이에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Here are %lld places nearby."
+          }
+        }
+      }
+    },
+    "‘%@’ 찾은 결과": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Results for ‘%@’"
+          }
+        }
+      }
+    },
+    "근처 가게 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show nearby places"
+          }
+        }
+      }
+    },
+    "목록에 없으면 이름으로 찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not listed? Search by name"
+          }
+        }
+      }
+    },
+    "찾기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search"
+          }
+        }
+      }
+    },
+    "식당에서 먹은 방문이 아닐 때 눌러요 (집밥, 다른 사람 음식 사진 등). 이 방문은 보관함으로 가고 다시 묻지 않아요. 대화에 남은 이 답을 누르면 되돌릴 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "For a visit that wasn't a meal out (home cooking, photos of someone else's food). The visit goes to the archive and isn't asked about again. Press this answer in the conversation to bring it back."
+          }
+        }
+      }
+    },
+    "다음 차례 찾는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding the next one in line…"
+          }
+        }
+      }
+    },
+    "다음 끼니 꺼내 오는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Digging up your next meal…"
+          }
+        }
+      }
+    },
+    "사진첩 넘기는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flipping through your photos…"
+          }
+        }
+      }
+    },
+    "사진과 메뉴 맞춰 보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matching your photos to the menu"
+          }
+        }
+      }
+    },
+    "+ %lld개 더": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+ %lld more"
+          }
+        }
+      }
+    },
+    "메뉴에서 찾거나 직접 쓰기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find on the menu, or type your own"
+          }
+        }
+      }
+    },
+    "%lld곳 더 보기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show %lld more"
+          }
+        }
+      }
+    },
+    "이 방문 지금 할까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do this visit now?"
+          }
+        }
+      }
+    },
+    "오늘 올린 리뷰 %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld posted today"
+          }
+        }
+      }
+    },
+    "지금까지 올린 리뷰 %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld reviews posted so far"
+          }
+        }
+      }
+    },
+    "%@, 어떤 음식인지 알아보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding out what %@ is"
+          }
+        }
+      }
+    },
+    "메뉴판 들여다보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Squinting at the menu"
+          }
+        }
+      }
+    },
+    "%@ 레시피 연구 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Studying the %@ recipe"
+          }
+        }
+      }
+    },
+    "현지 맛집 글 뒤지는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Digging through local food blogs"
+          }
+        }
+      }
+    },
+    "%@ 정체 파악 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working out what %@ really is"
+          }
+        }
+      }
+    },
+    "단어 고르는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Picking the words"
+          }
+        }
+      }
+    },
+    "문장 다듬는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Polishing the sentences"
+          }
+        }
+      }
+    },
+    "메뉴판 몰래 훔쳐보는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sneaking a look at the menu…"
+          }
+        }
+      }
+    },
+    "사진 속 젓가락 세는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Counting the chopsticks in your photos…"
+          }
+        }
+      }
+    },
+    "갈비에 어울리는 형용사 고르는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choosing adjectives worthy of the ribs…"
+          }
+        }
+      }
+    },
+    "동네 이름 외우는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Memorizing neighborhood names…"
+          }
+        }
+      }
+    },
+    "그날의 허기를 복원하는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restoring that day's hunger…"
+          }
+        }
+      }
+    },
+    "소스 색깔로 메뉴 추리하는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guessing dishes from the sauce color…"
+          }
+        }
+      }
+    },
+    "리뷰 첫 문장 다듬는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Polishing a first sentence…"
+          }
+        }
+      }
+    },
+    "구글 지도랑 눈치 싸움 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Staring down Google Maps…"
+          }
+        }
+      }
+    },
+    "트로트 박자 맞추는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding the beat for a country song…"
+          }
+        }
+      }
+    },
+    "김훈 선생님께 허락받는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Asking Hemingway for permission…"
+          }
+        }
+      }
+    },
+    "치즈가 늘어난 길이 재는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Measuring the cheese pull…"
+          }
+        }
+      }
+    },
+    "젓가락 각도로 국적 맞히는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guessing the cuisine from chopstick angles…"
+          }
+        }
+      }
+    },
+    "밥 한 공기 분량 계산 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weighing a bowl of rice…"
+          }
+        }
+      }
+    },
+    "심야식당 마스터 섭외 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Booking the Midnight Diner's master…"
+          }
+        }
+      }
+    },
+    "맛슐랭 별 닦는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Polishing the inspector's stars…"
+          }
+        }
+      }
+    },
+    "방문 몇 개 더 살펴보고, 찾은 걸 챙겨서 올게요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I'll go through a few more of your visits and bring back what I find."
+          }
+        }
+      }
+    },
+    "가게와 메뉴 찾기, 리뷰 초안을 고른 AI가 해요. 나중에 설정에서 바꿀 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The AI you pick finds the place and the menu and drafts the review. You can change it later in Settings."
+          }
+        }
+      }
+    },
+    "내 API 키 · 쓴 만큼 요금": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your API key · pay for what you use"
+          }
+        }
+      }
+    },
+    "누르면 이 방문을 언제든 다시 할 수 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click it to take this visit up again any time"
+          }
+        }
+      }
+    },
+    "답을 누르면 다시 고를 수 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click an answer to change it"
+          }
+        }
+      }
+    },
+    "방문 하나에 약 $0.18": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About $0.18 per visit"
+          }
+        }
+      }
+    },
+    "사진을 밖으로 끌어 놓으면 리뷰에서 빠져요 · 누르면 크게 봐요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag a photo out to leave it out of the review · click to see it big"
+          }
+        }
+      }
+    },
+    "어떤 AI로 할까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Which AI should do the thinking?"
+          }
+        }
+      }
+    },
+    "사진에서 밥 먹은 곳을 찾고 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looking through your photos for meals"
+          }
+        }
+      }
+    },
+    "사진 살펴보는 중 %lld / %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looking through photos %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "사진 살펴보는 중": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looking through photos"
+          }
+        }
+      }
+    },
+    "platform.claude.com에서 키를 만들어요. 쓴 만큼 요금이 나가요. 미리 준비는 앱을 켤 때마다 $1까지만 써요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create a key at platform.claude.com. You pay for what you use. Preparing ahead spends at most $1 each time the app opens."
+          }
+        }
+      }
+    },
+    "이전 로그인 창이에요. 이 탭은 닫고, 가장 최근에 열린 로그인 창에서 마쳐 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is an earlier sign-in window. Close this tab and finish in the most recent one."
+          }
+        }
+      }
+    },
+    "오늘 쓸 수 있는 가게 검색을 다 썼어요. 하루 지나면 다시 찾을 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today's place searches are used up. You can look again in a day."
+          }
+        }
+      }
+    },
+    "근처 가게 목록을 못 불러왔어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't load the places nearby."
+          }
+        }
+      }
+    },
+    "가게 검색": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place search"
+          }
+        }
+      }
+    },
+    "내 Google 지도 키로 찾아요. 그 키의 무료 한도에서 써요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching with your own Google Maps key, on that key's free calls."
+          }
+        }
+      }
+    },
+    "내 Google 지도 키 (선택)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your Google Maps key (optional)"
+          }
+        }
+      }
+    },
+    "넣으면 Afterplate 몫 대신 이 키로 찾아요. Google이 주는 무료 한도 안에서는 요금이 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With a key, places are searched on it instead of Afterplate's share. Within Google's free calls it costs nothing."
+          }
+        }
+      }
+    },
+    "키 받는 법": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How to get a key"
+          }
+        }
+      }
+    },
+    "Google Cloud에서 프로젝트를 만들어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create a project in Google Cloud."
+          }
+        }
+      }
+    },
+    "결제 계정을 연결해요. 카드가 필요하지만, 무료 한도 안에서는 청구되지 않아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link a billing account. Google asks for a card, but nothing is charged within the free calls."
+          }
+        }
+      }
+    },
+    "Places API (New)를 사용 설정해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enable Places API (New)."
+          }
+        }
+      }
+    },
+    "사용자 인증 정보 → API 키 만들기. 키 제한에서 Places API (New)만 고르면 안전해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Credentials → Create API key. Restrict it to Places API (New) to keep it safe."
+          }
+        }
+      }
+    },
+    "무료 한도를 넘지 않게 하루 검색 수에 상한을 걸어 둘 수 있어요 (예: SearchNearby 하루 150).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To stay within the free calls, you can cap searches per day (for example, SearchNearby at 150 a day)."
+          }
+        }
+      }
+    },
+    "만든 키를 위 칸에 붙여 넣으면 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste the key into the field above."
+          }
+        }
+      }
+    },
+    "이번 주 가게 검색을 다 썼어요. %@에 다시 채워지면 이 방문부터 찾을게요. 설정에서 내 Google 지도 키를 넣으면 바로 쓸 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This week's place searches are used up. They come back %@, and this visit is looked up first. With your own Google Maps key in Settings you can search right away."
+          }
+        }
+      }
+    },
+    "Afterplate의 Google 검색을 맥마다 일주일 몫씩 나눠 써요. 방문 하나에 1~2번이에요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each Mac gets a weekly share of Afterplate's Google searches. A visit takes one or two."
+          }
+        }
+      }
+    },
+    "이번 주 가게 검색 %lld번 중 %lld번 썼어요. 방문 하나에 1~2번이에요. 매주 %@에 다시 %lld번으로 채워져요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This week: %2$lld of %1$lld place searches used. A visit takes one or two. Back to %4$lld every %3$@."
+          }
+        }
+      }
+    },
+    "유료 구독 · 추가 요금 없음": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paid plan · no extra charge"
+          }
+        }
+      }
+    },
+    "ChatGPT Plus 이상 구독 사용량에서 써요. 무료 계정은 안 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uses your ChatGPT Plus (or higher) allowance. Free accounts don't work."
+          }
+        }
+      }
+    },
+    "SuperGrok 또는 X Premium+ 구독 사용량에서 써요. 무료 계정은 안 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uses your SuperGrok or X Premium+ allowance. Free accounts don't work."
+          }
+        }
+      }
+    },
+    "ChatGPT — 유료 구독": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ChatGPT — paid plan"
+          }
+        }
+      }
+    },
+    "Grok — 유료 구독": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grok — paid plan"
+          }
+        }
+      }
+    },
+    "OpenAI가 이 계정의 로그인을 받아 주지 않았어요 (%@). 무료 계정은 안 돼요. ChatGPT Plus 이상이 필요해요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OpenAI didn't accept this account's sign-in (%@). Free accounts don't work; ChatGPT Plus or higher is needed."
+          }
+        }
+      }
+    },
+    "원본은 이 맥에 그대로 있어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your originals stay on this Mac"
+          }
+        }
+      }
+    },
+    "가게와 메뉴를 알아낼 때 작게 줄인 사진은 고른 AI(ChatGPT·Grok·Claude)에게, 사진 찍은 위치는 Google 지도 검색에 보내요. 원본은 어디에도 올리지 않아요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To work out the place and the menu, small copies of photos go to the AI you pick (ChatGPT, Grok or Claude) and where they were taken goes to Google Maps search. Originals are never uploaded."
+          }
+        }
+      }
+    },
+    "글은 복사해 둘게요. 리뷰 칸에 붙여 넣기만 하세요 (⌘V).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The text will be copied. Just paste it into the review box (⌘V)."
+          }
+        }
+      }
+    },
+    "사진은 Afterplate 폴더에 넣어 둘게요. 리뷰창에서 사진 추가를 누르면 뜨는 파일 창의 왼쪽 즐겨찾기에 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The photos will be in the Afterplate folder. In the review box, press Add photos: it's under Favorites on the left of the file window that opens."
+          }
+        }
+      }
+    },
+    "어느 구글 계정으로 올릴까요?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Which Google account should it go up on?"
+          }
+        }
+      }
+    },
+    "Safari에 구글 계정이 여러 개면, 리뷰창이 다른 계정으로 열릴 수 있어요. 올릴 계정의 이메일을 알려 주세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If Safari is signed in to several Google accounts, the review box can open in the wrong one. Tell me the email of the account to post from."
+          }
+        }
+      }
+    },
+    "계정이 하나예요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I have just one"
+          }
+        }
+      }
+    },
+    "리뷰를 올릴 구글 이메일": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google email to post from"
+          }
+        }
+      }
+    },
+    "리뷰 올릴 구글 계정": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google account for reviews"
+          }
+        }
+      }
+    },
+    "Safari에 구글 계정이 여러 개면 리뷰창이 이 계정으로 열려요. 비워 두면 Safari가 마지막에 쓴 계정으로 열려요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If Safari is signed in to several Google accounts, the review box opens in this one. Left empty, it opens in the one Safari used last."
+          }
+        }
+      }
+    },
+    "이메일": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email"
+          }
+        }
+      }
+    },
+    "%@ 계정으로 열어요. 바꾸려면 설정에서 바꿀 수 있어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens in %@. You can change it in Settings."
+          }
+        }
+      }
+    },
+    "음식 사진 골라내는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Picking out the food photos…"
+          }
+        }
+      }
+    },
+    "셀카는 살짝 넘기는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Politely skipping the selfies…"
+          }
+        }
+      }
+    },
+    "빙수 녹기 전에 찾는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding the shaved ice before it melts…"
+          }
+        }
+      }
+    },
+    "고양이 사진은 못 본 척하는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pretending not to see the cat photos…"
+          }
+        }
+      }
+    },
+    "그날 먹은 거 떠올리는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remembering what you had that day…"
+          }
+        }
+      }
+    },
+    "메뉴판 사진은 빼 두는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting aside the menu photos…"
+          }
+        }
+      }
+    },
+    "야경 사진 지나가는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scrolling past the night views…"
+          }
+        }
+      }
+    },
+    "젓가락 보이면 멈추는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stopping wherever chopsticks show up…"
+          }
+        }
+      }
+    },
+    "밥상 앞에서 찍은 것만 고르는 중…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keeping only the ones taken at the table…"
+          }
+        }
+      }
+    },
+    "봄": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "spring"
+          }
+        }
+      }
+    },
+    "여름": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "summer"
+          }
+        }
+      }
+    },
+    "가을": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "autumn"
+          }
+        }
+      }
+    },
+    "겨울": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "winter"
+          }
+        }
+      }
+    },
+    "아침": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "breakfast"
+          }
+        }
+      }
+    },
+    "점심": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lunch"
+          }
+        }
+      }
+    },
+    "간식": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "snack"
+          }
+        }
+      }
+    },
+    "저녁": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dinner"
+          }
+        }
+      }
+    },
+    "야식": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "late-night bite"
+          }
+        }
+      }
+    },
+    "잘 먹었다 😋": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So good 😋"
+          }
+        }
+      }
+    },
+    "행복해 🥰": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Happy 🥰"
+          }
+        }
+      }
+    },
+    "배불러 🤤": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So full 🤤"
+          }
+        }
+      }
+    },
+    "또 가고 싶다 ✨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Going back ✨"
+          }
+        }
+      }
+    },
+    "이건 못 참지 🔥": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't resist 🔥"
+          }
+        }
+      }
+    },
+    "냠냠 🍴": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yum 🍴"
+          }
+        }
+      }
+    },
+    "최고였어 👍": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The best 👍"
+          }
+        }
+      }
+    },
+    "한 입만 🙏": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Just one bite 🙏"
+          }
+        }
+      }
+    },
+    "건배 🥂": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cheers 🥂"
+          }
+        }
+      }
+    },
+    "맛있었지 💛": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delicious 💛"
+          }
+        }
+      }
+    },
+    "인생 맛집 🏆": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Best place ever 🏆"
+          }
+        }
+      }
+    },
+    "여기 또 와야 해 📌": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Must come back 📌"
+          }
+        }
+      }
+    },
+    "다이어트는 내일부터 🙃": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diet starts tomorrow 🙃"
+          }
+        }
+      }
+    },
+    "국물이 끝내줘 🍲": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That broth though 🍲"
+          }
+        }
+      }
+    },
+    "분위기 최고 🌙": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What a vibe 🌙"
+          }
+        }
+      }
+    },
+    "같이 먹어서 더 맛있어 👫": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Better together 👫"
+          }
+        }
+      }
+    },
+    "사진부터 찍고 📸": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo first 📸"
+          }
+        }
+      }
+    },
+    "디저트 배는 따로 🍨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Always room for dessert 🍨"
+          }
+        }
+      }
+    },
+    "오늘 하루 수고했어 🍻": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We earned this 🍻"
+          }
+        }
+      }
+    },
+    "비주얼 미쳤다 🤩": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looks unreal 🤩"
+          }
+        }
+      }
+    },
+    "겉바속촉 👌": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crispy outside, soft inside 👌"
+          }
+        }
+      }
+    },
+    "밥도둑 등장 🍚": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rice thief alert 🍚"
+          }
+        }
+      }
+    },
+    "한 그릇 뚝딱 🥣": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bowl cleared 🥣"
+          }
+        }
+      }
+    },
+    "입에서 녹아 🫠": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Melts in your mouth 🫠"
+          }
+        }
+      }
+    },
+    "이 집 잘하네 👏": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "They know what they're doing 👏"
+          }
+        }
+      }
+    },
+    "줄 설 만했다 ⏳": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Worth the line ⏳"
+          }
+        }
+      }
+    },
+    "소스 미쳤어 🤌": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That sauce 🤌"
+          }
+        }
+      }
+    },
+    "면치기 성공 🍜": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfect slurp 🍜"
+          }
+        }
+      }
+    },
+    "치즈 늘어난다 🧀": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cheese pull 🧀"
+          }
+        }
+      }
+    },
+    "불맛 제대로 🔥": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smoky and perfect 🔥"
+          }
+        }
+      }
+    },
+    "고기 굽는 소리 🥩": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sizzle 🥩"
+          }
+        }
+      }
+    },
+    "커피 한 잔의 여유 ☕️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coffee break ☕️"
+          }
+        }
+      }
+    },
+    "빵 냄새 솔솔 🥐": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fresh bread smell 🥐"
+          }
+        }
+      }
+    },
+    "달달하다 🍯": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So sweet 🍯"
+          }
+        }
+      }
+    },
+    "상큼해 🍋": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So fresh 🍋"
+          }
+        }
+      }
+    },
+    "매콤하다 🌶️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A little spicy 🌶️"
+          }
+        }
+      }
+    },
+    "바삭바삭 ✨": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crunchy ✨"
+          }
+        }
+      }
+    },
+    "쫄깃쫄깃 😆": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So chewy 😆"
+          }
+        }
+      }
+    },
+    "든든하다 💪": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proper meal 💪"
+          }
+        }
+      }
+    },
+    "배 터지겠다 🎈": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About to burst 🎈"
+          }
+        }
+      }
+    },
+    "하나 더 시킬까 🤔": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Order one more? 🤔"
+          }
+        }
+      }
+    },
+    "이 조합 찬성 🙌": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Great combo 🙌"
+          }
+        }
+      }
+    },
+    "술이 술술 🍶": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drinks going down easy 🍶"
+          }
+        }
+      }
+    },
+    "2차 가자 🎉": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Round two 🎉"
+          }
+        }
+      }
+    },
+    "여행은 먹으러 가는 거지 🧳": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We travel to eat 🧳"
+          }
+        }
+      }
+    },
+    "현지인 맛집 🗺️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where the locals eat 🗺️"
+          }
+        }
+      }
+    },
+    "이 맛에 산다 😌": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is living 😌"
+          }
+        }
+      }
+    },
+    "기분 좋아지는 맛 🌈": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mood fixed 🌈"
+          }
+        }
+      }
+    },
+    "추억의 맛 📷": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tastes like memories 📷"
+          }
+        }
+      }
+    },
+    "엄마 생각나 🏡": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Like mom's 🏡"
+          }
+        }
+      }
+    },
+    "첫입부터 합격 ✅": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Passed at first bite ✅"
+          }
+        }
+      }
+    },
+    "양이 푸짐해 🍱": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huge portions 🍱"
+          }
+        }
+      }
+    },
+    "가성비 최고 💸": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Great value 💸"
+          }
+        }
+      }
+    },
+    "플렉스 했다 💎": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Treated ourselves 💎"
+          }
+        }
+      }
+    },
+    "오늘은 치팅데이 🍟": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cheat day 🍟"
+          }
+        }
+      }
+    },
+    "야식은 진리 🌃": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Late-night snacks rule 🌃"
+          }
+        }
+      }
+    },
+    "브런치 타임 🥞": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brunch time 🥞"
+          }
+        }
+      }
+    },
+    "점심 뭐 먹지 해결 ✔️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lunch: solved ✔️"
+          }
+        }
+      }
+    },
+    "혼밥도 좋아 🧘": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Table for one 🧘"
+          }
+        }
+      }
+    },
+    "다 같이 짠 🍺": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All together, cheers 🍺"
+          }
+        }
+      }
+    },
+    "생일 축하해 🎂": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Happy birthday 🎂"
+          }
+        }
+      }
+    },
+    "기념일 디너 💐": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anniversary dinner 💐"
+          }
+        }
+      }
+    },
+    "비 오는 날엔 이거지 ☔️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfect for a rainy day ☔️"
+          }
+        }
+      }
+    },
+    "더운 날엔 시원하게 🧊": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ice cold for a hot day 🧊"
+          }
+        }
+      }
+    },
+    "추운 날 뜨끈하게 ♨️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warm on a cold day ♨️"
+          }
+        }
+      }
+    },
+    "바다 보며 한 입 🌊": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A bite by the sea 🌊"
+          }
+        }
+      }
+    },
+    "테라스 자리 득템 ☀️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Got the terrace seat ☀️"
+          }
+        }
+      }
+    },
+    "뷰 맛집 🏙️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The view, though 🏙️"
+          }
+        }
+      }
+    },
+    "향이 좋다 🌿": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smells amazing 🌿"
+          }
+        }
+      }
+    },
+    "숨은 맛집 발견 🔍": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hidden gem 🔍"
+          }
+        }
+      }
+    },
+    "단골 각 🙋": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Becoming a regular 🙋"
+          }
+        }
+      }
+    },
+    "사장님 최고 🫶": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thanks, chef 🫶"
+          }
+        }
+      }
+    },
+    "셰프의 키스 😘": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chef's kiss 😘"
+          }
+        }
+      }
+    },
+    "나만 알고 싶다 🤫": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keeping this one secret 🤫"
+          }
+        }
+      }
+    },
+    "눈으로 먼저 먹었다 👀": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ate with my eyes first 👀"
+          }
+        }
+      }
+    },
+    "이게 바로 행복 ☺️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is happiness ☺️"
+          }
+        }
+      }
+    },
+    "아직도 생각나 💭": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Still thinking about it 💭"
+          }
+        }
+      }
+    },
+    "한 번 더 먹고 싶다 🔁": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Want it again 🔁"
+          }
+        }
+      }
+    },
+    "여기 리뷰 써야지 ✍️": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Must review this ✍️"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
