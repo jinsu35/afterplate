@@ -741,16 +741,6 @@
         }
       }
     },
-    "권한 없이 먼저 써 보세요": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Try it first, no permissions"
-          }
-        }
-      }
-    },
     "그 외": {
       "localizations": {
         "en": {
@@ -1651,26 +1641,6 @@
         }
       }
     },
-    "사진 보관함에서 음식 사진을 찾아 방문 단위로 묶고, 가게와 메뉴를 읽어 리뷰 초안까지 만들어 둡니다. 사진은 복사하지 않고 그대로 둡니다.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afterplate finds the food photos in your library, groups them into visits, works out the place and the dishes, and drafts the review. Your photos stay where they are."
-          }
-        }
-      }
-    },
-    "사진 보관함에서 찾아주기": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Use my Photos library"
-          }
-        }
-      }
-    },
     "사진 위치로 가게를 찾는 중": {
       "localizations": {
         "en": {
@@ -1681,32 +1651,12 @@
         }
       }
     },
-    "사진 접근이 꺼져 있어요. 폴더로 먼저 써 보시고, 마음에 들면 시스템 설정에서 켜 주세요.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Photos access is off. Try a folder first, and turn access on in System Settings if you like it."
-          }
-        }
-      }
-    },
     "사진 찍힌 자리": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
             "value": "Where the photos were taken"
-          }
-        }
-      }
-    },
-    "사진 폴더 고르기": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Choose a Photo Folder"
           }
         }
       }
@@ -1777,16 +1727,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Opens where the photos were taken on a map"
-          }
-        }
-      }
-    },
-    "사진이 들어 있는 폴더를 고르면 바로 방문으로 묶어 보여줍니다. 사진 보관함 권한은 필요하지 않아요.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Choose a folder of photos and they're grouped into visits right away. No Photos permission needed."
           }
         }
       }
@@ -2727,16 +2667,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "No token received."
-          }
-        }
-      }
-    },
-    "폴더로 시작하면 아무 권한도 필요하지 않아요. 보관함 전체에서 찾아주는 건 나중에 켜면 됩니다.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Starting with a folder needs no permissions. You can let it search your whole library later."
           }
         }
       }
@@ -6009,6 +5939,96 @@
           "stringUnit": {
             "state": "translated",
             "value": "Must review this ✍️"
+          }
+        }
+      }
+    },
+    "사진 앱에서 음식 사진을 찾아 방문 단위로 묶고, 가게와 메뉴를 읽어 리뷰 초안까지 만들어 둡니다. 사진은 복사하지 않고 그대로 둡니다.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finds the food photos in your Photos app, groups them into visits, works out the place and the menu, and drafts the review. Your photos stay where they are; nothing is copied."
+          }
+        }
+      }
+    },
+    "사진 앱 그대로, 옮길 것 없이": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Straight from Photos, nothing to move"
+          }
+        }
+      }
+    },
+    "iPhone에서 찍어 iCloud 사진으로 올라온 사진까지, 사진 앱에 있는 그대로 읽어요. 내보내거나 폴더로 옮길 필요가 없어요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Everything in your Photos app, including what your iPhone sent up to iCloud Photos, read where it is. No exporting, no folders."
+          }
+        }
+      }
+    },
+    "사진 앱 연결하기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect Apple Photos"
+          }
+        }
+      }
+    },
+    "iCloud 사진까지 전부에서 찾아요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searches all of it, iCloud Photos included"
+          }
+        }
+      }
+    },
+    "폴더에서 고르기": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a folder"
+          }
+        }
+      }
+    },
+    "고른 폴더의 사진만 읽어요": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reads only the folder you pick"
+          }
+        }
+      }
+    },
+    "사진 앱 접근이 꺼져 있어요. 시스템 설정에서 켜 주시거나, 폴더로 먼저 써 보세요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos access is off. Turn it on in System Settings, or try a folder first."
+          }
+        }
+      }
+    },
+    "사진 앱 접근은 macOS가 한 번 물어봐요. 권한 없이 써 보고 싶으면 폴더로 시작해도 돼요.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS asks once for access to Photos. To try it without, start with a folder."
           }
         }
       }

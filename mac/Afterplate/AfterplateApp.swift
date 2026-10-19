@@ -375,7 +375,7 @@ struct RootView: View {
         case .unknown, .denied:
             ZStack {
                 BrandBackdrop().ignoresSafeArea()
-                FirstRunView()
+                FirstRunFlow()
             }
         }
         }
@@ -398,6 +398,40 @@ struct RootView: View {
     }
 }
 
+/// The first run, in order: which AI first, then the photos. Choosing the
+/// AI used to come up only while the library was being looked through, on
+/// top of it; with the AI settled first, the look through the library is
+/// left to be watched, stickers and all.
+struct FirstRunFlow: View {
+    @State private var brainReady = Brain.subscriptionReady
+
+    var body: some View {
+        Group {
+            if brainReady {
+                FirstRunView()
+                    .transition(.asymmetric(insertion: .move(edge: .trailing).combined(with: .opacity), removal: .opacity))
+            } else {
+                BrainSetup(changed: check)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    .transition(.opacity)
+            }
+        }
+        // Signing in finishes in the browser or on x.ai; look until it has.
+        .task(id: brainReady) {
+            while !brainReady, !Task.isCancelled {
+                check()
+                try? await Task.sleep(for: .seconds(1))
+            }
+        }
+    }
+
+    private func check() {
+        let ready = Brain.subscriptionReady
+        guard ready != brainReady else { return }
+        withAnimation(.spring(response: 0.5, dampingFraction: 0.85)) { brainReady = ready }
+    }
+}
+
 struct FirstRunView: View {
     @EnvironmentObject private var library: PhotoLibrary
 
@@ -411,7 +445,7 @@ struct FirstRunView: View {
                     .tracking(-1.4)
                     .lineSpacing(4)
                     .foregroundStyle(AppBrand.foreground)
-                Text("사진 보관함에서 음식 사진을 찾아 방문 단위로 묶고, 가게와 메뉴를 읽어 리뷰 초안까지 만들어 둡니다. 사진은 복사하지 않고 그대로 둡니다.")
+                Text("사진 앱에서 음식 사진을 찾아 방문 단위로 묶고, 가게와 메뉴를 읽어 리뷰 초안까지 만들어 둡니다. 사진은 복사하지 않고 그대로 둡니다.")
                     .font(.system(size: 14))
                     .foregroundStyle(AppBrand.muted)
                     .lineSpacing(5)
@@ -421,9 +455,9 @@ struct FirstRunView: View {
             BrandPanel(padding: 20) {
                 VStack(alignment: .leading, spacing: 16) {
                     reason(
-                        symbol: "folder",
-                        title: String(localized: "권한 없이 먼저 써 보세요"),
-                        body: String(localized: "사진이 들어 있는 폴더를 고르면 바로 방문으로 묶어 보여줍니다. 사진 보관함 권한은 필요하지 않아요.")
+                        symbol: "photo.on.rectangle.angled",
+                        title: String(localized: "사진 앱 그대로, 옮길 것 없이"),
+                        body: String(localized: "iPhone에서 찍어 iCloud 사진으로 올라온 사진까지, 사진 앱에 있는 그대로 읽어요. 내보내거나 폴더로 옮길 필요가 없어요.")
                     )
                     reason(
                         symbol: "lock.shield",
@@ -434,32 +468,48 @@ struct FirstRunView: View {
             }
             .frame(maxWidth: 580)
 
-            HStack(spacing: 10) {
-                Button("사진 폴더 고르기") { library.chooseFolder() }
-                    .buttonStyle(BrandPrimaryButtonStyle())
-                Button("사진 보관함에서 찾아주기") {
-                    Task { await library.requestAccess() }
+            // The Photos app is the way in: it is the whole library, iCloud
+            // included, and nothing to export. It used to be the grey button
+            // beside a yellow "choose a folder", which read as the other way
+            // round; now both are the same grey, Photos first and with its
+            // own icon.
+            HStack(spacing: 12) {
+                SourceButton(
+                    icon: Self.photosIcon.map { Image(nsImage: $0) } ?? Image(systemName: "photo.on.rectangle"),
+                    title: String(localized: "사진 앱 연결하기"),
+                    detail: String(localized: "iCloud 사진까지 전부에서 찾아요")
+                ) { Task { await library.requestAccess() } }
+                SourceButton(
+                    icon: Image(systemName: "folder"),
+                    title: String(localized: "폴더에서 고르기"),
+                    detail: String(localized: "고른 폴더의 사진만 읽어요")
+                ) { library.chooseFolder() }
+            }
+            .frame(maxWidth: 580)
+
+            if library.access == .denied {
+                Button("시스템 설정 열기") {
+                    if let url = URL(string: "x-apple.systempreferences:com.apple.preference.security?Privacy_Photos") {
+                        NSWorkspace.shared.open(url)
+                    }
                 }
                 .buttonStyle(BrandSecondaryButtonStyle())
-                if library.access == .denied {
-                    Button("시스템 설정 열기") {
-                        if let url = URL(string: "x-apple.systempreferences:com.apple.preference.security?Privacy_Photos") {
-                            NSWorkspace.shared.open(url)
-                        }
-                    }
-                    .buttonStyle(BrandSecondaryButtonStyle())
-                }
             }
 
             Text(library.access == .denied
-                 ? "사진 접근이 꺼져 있어요. 폴더로 먼저 써 보시고, 마음에 들면 시스템 설정에서 켜 주세요."
-                 : "폴더로 시작하면 아무 권한도 필요하지 않아요. 보관함 전체에서 찾아주는 건 나중에 켜면 됩니다.")
+                 ? "사진 앱 접근이 꺼져 있어요. 시스템 설정에서 켜 주시거나, 폴더로 먼저 써 보세요."
+                 : "사진 앱 접근은 macOS가 한 번 물어봐요. 권한 없이 써 보고 싶으면 폴더로 시작해도 돼요.")
                 .font(.system(size: 11))
                 .foregroundStyle(AppBrand.faint)
         }
         .padding(48)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
+
+    /// The Photos app's own icon, so the button says which app it means.
+    private static let photosIcon: NSImage? = NSWorkspace.shared
+        .urlForApplication(withBundleIdentifier: "com.apple.Photos")
+        .map { NSWorkspace.shared.icon(forFile: $0.path) }
 
     private func reason(symbol: String, title: String, body: String) -> some View {
         HStack(alignment: .top, spacing: 13) {
@@ -472,5 +522,36 @@ struct FirstRunView: View {
                 Text(body).font(.system(size: 11)).foregroundStyle(AppBrand.muted).lineSpacing(3)
             }
         }
+    }
+}
+
+/// One of the first screen's two ways in: a big button with the source's
+/// icon, what it is, and one line on what it reads.
+private struct SourceButton: View {
+    let icon: Image
+    let title: String
+    let detail: String
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            HStack(spacing: 14) {
+                icon.resizable().scaledToFit()
+                    .frame(width: 40, height: 40)
+                VStack(alignment: .leading, spacing: 3) {
+                    Text(title).font(.system(size: 18, weight: .black))
+                    Text(detail).font(.system(size: 12, weight: .semibold)).opacity(0.75)
+                }
+                Spacer(minLength: 0)
+            }
+            .foregroundStyle(AppBrand.foreground)
+            .padding(.horizontal, 18)
+            .frame(maxWidth: .infinity, minHeight: 76)
+            .background(AppBrand.raisedSurface)
+            .overlay { RoundedRectangle(cornerRadius: 16, style: .continuous).stroke(AppBrand.line, lineWidth: 1) }
+            .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
+            .contentShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
+        }
+        .buttonStyle(.plainHit)
     }
 }

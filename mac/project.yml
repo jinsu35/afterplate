@@ -26,7 +26,7 @@ targets:
       path: Afterplate/Info.plist
       properties:
         CFBundleDisplayName: Afterplate
-        CFBundleShortVersionString: "0.3"
+        CFBundleShortVersionString: "0.3.1"
         LSMinimumSystemVersion: "14.0"
         NSHumanReadableCopyright: ""
         NSPhotoLibraryUsageDescription: 밀린 음식 사진에서 방문을 찾아 정리하려면 사진 보관함을 읽어야 합니다. 사진은 복사하지 않고 그대로 둡니다.
@@ -37,7 +37,7 @@ targets:
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.jinsukim.afterplate
-        MARKETING_VERSION: "0.3"
+        MARKETING_VERSION: "0.3.1"
         SWIFT_VERSION: "5.9"
         ENABLE_HARDENED_RUNTIME: YES
         # The identity comes from Signing.xcconfig.
