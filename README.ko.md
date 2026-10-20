@@ -6,6 +6,8 @@
 
 <p align="center">찍어만 둔 음식 사진, 이제 리뷰로.<br>사진 보관함 속 식사를 몇 번 탭으로 Google 지도 리뷰로 만들어 주는 맥 앱이에요.</p>
 
+<p align="center"><img src="docs/images/demo.ko.gif" width="720" alt="Afterplate 사용 장면: 방문 준비 화면, "브루클린더버거조인트에서 드셨어요?", 메뉴 세 개 고르기, 맛 답하기, 그리고 고를 수 있는 리뷰 초안 네 개."></p>
+
 ---
 
 ## 어떻게 돌아가나요

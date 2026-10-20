@@ -6,6 +6,8 @@
 
 <p align="center">All those food photos, reviewed at last.<br>A Mac app that turns the meals in your Photos library into Google Maps reviews, a few taps each.</p>
 
+<p align="center"><img src="docs/images/demo.gif" width="720" alt="Afterplate in use: a visit's photos, "Did you eat at Brooklyn The Burger Joint?", picking three dishes, saying how each was, then four review drafts to choose from."></p>
+
 ---
 
 ## How it works
